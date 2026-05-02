@@ -37,7 +37,9 @@ Perhaps running out of time. It did take a while to figure out bcrypt and how to
 
 Feedback
 *  undut{Hoppas vi ses nästa år igen!}
+
 Programming => Biologisk mångfald
 *  undut{Använde du AI är du inte sigma!}
 
-undut{99fd5378b42993139ec5042b02cc30b83df786ed}
+The Dosa problem
+* undut{99fd5378b42993139ec5042b02cc30b83df786ed}
