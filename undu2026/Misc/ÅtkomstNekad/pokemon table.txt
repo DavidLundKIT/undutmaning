@@ -1,0 +1,4351 @@
+<table class="wikitable sortable jquery-tablesorter" style="width:100%; border:2px solid grey">
+<caption style="text-align:center">List of Pokémon species names by generation<sup id="cite_ref-Pokédex_51-0" class="reference"><a href="#cite_note-Pokédex-51"><span class="cite-bracket">[</span>45<span class="cite-bracket">]</span></a></sup>
+</caption>
+<thead><tr style="border:2px solid grey">
+<th scope="col" colspan="2" style="border-left:2px solid grey"><a href="/wiki/List_of_generation_I_Pok%C3%A9mon" title="List of generation I Pokémon">Generation I</a>
+</th>
+<th scope="col" colspan="2" style="border-left:2px solid grey"><a href="/wiki/List_of_generation_II_Pok%C3%A9mon" title="List of generation II Pokémon">Generation II</a>
+</th>
+<th scope="col" colspan="2" style="border-left:2px solid grey"><a href="/wiki/List_of_generation_III_Pok%C3%A9mon" title="List of generation III Pokémon">Generation III</a>
+</th>
+<th scope="col" colspan="2" style="border-left:2px solid grey"><a href="/wiki/List_of_generation_IV_Pok%C3%A9mon" title="List of generation IV Pokémon">Generation IV</a>
+</th>
+<th scope="col" colspan="2" style="border-left:2px solid grey"><a href="/wiki/List_of_generation_V_Pok%C3%A9mon" title="List of generation V Pokémon">Generation V</a>
+</th>
+<th scope="col" colspan="2" style="border-left:2px solid grey"><a href="/wiki/List_of_generation_VI_Pok%C3%A9mon" title="List of generation VI Pokémon">Generation VI</a>
+</th>
+<th scope="col" colspan="2" style="border-left:2px solid grey"><a href="/wiki/List_of_generation_VII_Pok%C3%A9mon" title="List of generation VII Pokémon">Generation VII</a>
+</th>
+<th scope="col" colspan="2" style="border-left:2px solid grey"><a href="/wiki/List_of_generation_VIII_Pok%C3%A9mon" title="List of generation VIII Pokémon">Generation VIII</a>
+</th>
+<th scope="col" colspan="2" style="border-left:2px solid grey"><a href="/wiki/List_of_generation_IX_Pok%C3%A9mon" title="List of generation IX Pokémon">Generation IX</a>
+</th>
+<th scope="col" colspan="2" style="border-left:2px solid grey">Generation X
+</th></tr><tr style="border:2px solid grey">
+<th scope="col" style="border-left:2px solid grey" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><abbr title="National Pokédex number">Dex #</abbr>
+</th>
+<th scope="col" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Name
+</th>
+<th scope="col" style="border-left:2px solid grey" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><abbr title="National Pokédex number">Dex #</abbr>
+</th>
+<th scope="col" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Name
+</th>
+<th scope="col" style="border-left:2px solid grey" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><abbr title="National Pokédex number">Dex #</abbr>
+</th>
+<th scope="col" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Name
+</th>
+<th scope="col" style="border-left:2px solid grey" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><abbr title="National Pokédex number">Dex #</abbr>
+</th>
+<th scope="col" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Name
+</th>
+<th scope="col" style="border-left:2px solid grey" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><abbr title="National Pokédex number">Dex #</abbr>
+</th>
+<th scope="col" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Name
+</th>
+<th scope="col" style="border-left:2px solid grey" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><abbr title="National Pokédex number">Dex #</abbr>
+</th>
+<th scope="col" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Name
+</th>
+<th scope="col" style="border-left:2px solid grey" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><abbr title="National Pokédex number">Dex #</abbr>
+</th>
+<th scope="col" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Name
+</th>
+<th scope="col" style="border-left:2px solid grey" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><abbr title="National Pokédex number">Dex #</abbr>
+</th>
+<th scope="col" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Name
+</th>
+<th scope="col" style="border-left:2px solid grey" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><abbr title="National Pokédex number">Dex #</abbr>
+</th>
+<th scope="col" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Name
+</th>
+<th scope="col" style="border-left:2px solid grey" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><abbr title="National Pokédex number">Dex #</abbr>
+</th>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Name
+</th></tr></thead><tbody>
+
+<tr>
+<td style="background-color: #9FCADF; border-left:2px solid grey">1
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Bulbasaur" title="Bulbasaur">Bulbasaur</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">152
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Chikorita" class="mw-redirect" title="Chikorita">Chikorita</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">252
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Treecko" class="mw-redirect" title="Treecko">Treecko</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">387
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Turtwig" class="mw-redirect" title="Turtwig">Turtwig</a><sup>S</sup>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">494
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Victini" title="Victini">Victini</a><sup>M</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">650
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Chespin" class="mw-redirect" title="Chespin">Chespin</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">722
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Rowlet" class="mw-redirect" title="Rowlet">Rowlet</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">810
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Grookey" class="mw-redirect" title="Grookey">Grookey</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">906
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Sprigatito" class="mw-redirect" title="Sprigatito">Sprigatito</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">???
+</td>
+<td style="background-color: #9FCADF">Browt<sup>S</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">2
+</td>
+<td><a href="/wiki/Ivysaur" class="mw-redirect" title="Ivysaur">Ivysaur</a>
+</td>
+<td style="border-left:2px solid grey">153
+</td>
+<td><a href="/wiki/Bayleef" class="mw-redirect" title="Bayleef">Bayleef</a>
+</td>
+<td style="border-left:2px solid grey">253
+</td>
+<td><a href="/wiki/Grovyle" class="mw-redirect" title="Grovyle">Grovyle</a>
+</td>
+<td style="border-left:2px solid grey">388
+</td>
+<td><a href="/wiki/Grotle" class="mw-redirect" title="Grotle">Grotle</a>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">495
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Snivy" class="mw-redirect" title="Snivy">Snivy</a><sup>S</sup>
+</td>
+<td style="border-left:2px solid grey">651
+</td>
+<td><a href="/wiki/Quilladin" class="mw-redirect" title="Quilladin">Quilladin</a>
+</td>
+<td style="border-left:2px solid grey">723
+</td>
+<td><a href="/wiki/Dartrix" class="mw-redirect" title="Dartrix">Dartrix</a>
+</td>
+<td style="border-left:2px solid grey">811
+</td>
+<td><a href="/wiki/Thwackey" class="mw-redirect" title="Thwackey">Thwackey</a>
+</td>
+<td style="border-left:2px solid grey">907
+</td>
+<td><a href="/wiki/Floragato" class="mw-redirect" title="Floragato">Floragato</a>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">???
+</td>
+<td style="background-color: #9FCADF">Pombon<sup>S</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">3
+</td>
+<td><a href="/wiki/Venusaur" class="mw-redirect" title="Venusaur">Venusaur</a>
+</td>
+<td style="border-left:2px solid grey">154
+</td>
+<td><a href="/wiki/Meganium" class="mw-redirect" title="Meganium">Meganium</a>
+</td>
+<td style="border-left:2px solid grey">254
+</td>
+<td><a href="/wiki/Sceptile" class="mw-redirect" title="Sceptile">Sceptile</a>
+</td>
+<td style="border-left:2px solid grey">389
+</td>
+<td><a href="/wiki/Torterra" class="mw-redirect" title="Torterra">Torterra</a>
+</td>
+<td style="border-left:2px solid grey">496
+</td>
+<td><a href="/wiki/Servine" class="mw-redirect" title="Servine">Servine</a>
+</td>
+<td style="border-left:2px solid grey">652
+</td>
+<td><a href="/wiki/Chesnaught" class="mw-redirect" title="Chesnaught">Chesnaught</a>
+</td>
+<td style="border-left:2px solid grey">724
+</td>
+<td><a href="/wiki/Decidueye" class="mw-redirect" title="Decidueye">Decidueye</a>
+</td>
+<td style="border-left:2px solid grey">812
+</td>
+<td><a href="/wiki/Rillaboom" class="mw-redirect" title="Rillaboom">Rillaboom</a>
+</td>
+<td style="border-left:2px solid grey">908
+</td>
+<td><a href="/wiki/Meowscarada" class="mw-redirect" title="Meowscarada">Meowscarada</a>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">???
+</td>
+<td style="background-color: #9FCADF">Gecqua<sup>S</sup>
+</td></tr>
+<tr>
+<td style="background-color: #9FCADF; border-left:2px solid grey">4
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Charmander" title="Charmander">Charmander</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">155
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Cyndaquil" class="mw-redirect" title="Cyndaquil">Cyndaquil</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">255
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Torchic" class="mw-redirect" title="Torchic">Torchic</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">390
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Chimchar" class="mw-redirect" title="Chimchar">Chimchar</a><sup>S</sup>
+</td>
+<td style="border-left:2px solid grey">497
+</td>
+<td><a href="/wiki/Serperior" class="mw-redirect" title="Serperior">Serperior</a>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">653
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Fennekin" class="mw-redirect" title="Fennekin">Fennekin</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">725
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Litten_(Pok%C3%A9mon)" class="mw-redirect" title="Litten (Pokémon)">Litten</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">813
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Scorbunny" title="Scorbunny">Scorbunny</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">909
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Fuecoco" title="Fuecoco">Fuecoco</a><sup>S</sup>
+</td>
+<td colspan="2" rowspan="153" style="border-left:2px solid grey" class="table-na">No additional Pokémon (as of 27&nbsp;February&nbsp;2026<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=List_of_Pok%C3%A9mon&amp;action=edit">[update]</a></sup>)
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">5
+</td>
+<td><a href="/wiki/Charmeleon" class="mw-redirect" title="Charmeleon">Charmeleon</a>
+</td>
+<td style="border-left:2px solid grey">156
+</td>
+<td><a href="/wiki/Quilava" class="mw-redirect" title="Quilava">Quilava</a>
+</td>
+<td style="border-left:2px solid grey">256
+</td>
+<td><a href="/wiki/Combusken" class="mw-redirect" title="Combusken">Combusken</a>
+</td>
+<td style="border-left:2px solid grey">391
+</td>
+<td><a href="/wiki/Monferno" class="mw-redirect" title="Monferno">Monferno</a>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">498
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Tepig" class="mw-redirect" title="Tepig">Tepig</a><sup>S</sup>
+</td>
+<td style="border-left:2px solid grey">654
+</td>
+<td><a href="/wiki/Braixen" class="mw-redirect" title="Braixen">Braixen</a>
+</td>
+<td style="border-left:2px solid grey">726
+</td>
+<td><a href="/wiki/Torracat" class="mw-redirect" title="Torracat">Torracat</a>
+</td>
+<td style="border-left:2px solid grey">814
+</td>
+<td><a href="/wiki/Raboot" class="mw-redirect" title="Raboot">Raboot</a>
+</td>
+<td style="border-left:2px solid grey">910
+</td>
+<td><a href="/wiki/Crocalor" class="mw-redirect" title="Crocalor">Crocalor</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">6
+</td>
+<td><a href="/wiki/Charizard" title="Charizard">Charizard</a>
+</td>
+<td style="border-left:2px solid grey">157
+</td>
+<td><a href="/wiki/Typhlosion" title="Typhlosion">Typhlosion</a>
+</td>
+<td style="border-left:2px solid grey">257
+</td>
+<td><a href="/wiki/Blaziken" title="Blaziken">Blaziken</a>
+</td>
+<td style="border-left:2px solid grey">392
+</td>
+<td><a href="/wiki/Infernape" class="mw-redirect" title="Infernape">Infernape</a>
+</td>
+<td style="border-left:2px solid grey">499
+</td>
+<td><a href="/wiki/Pignite" class="mw-redirect" title="Pignite">Pignite</a>
+</td>
+<td style="border-left:2px solid grey">655
+</td>
+<td><a href="/wiki/Delphox" class="mw-redirect" title="Delphox">Delphox</a>
+</td>
+<td style="border-left:2px solid grey">727
+</td>
+<td><a href="/wiki/Incineroar" class="mw-redirect" title="Incineroar">Incineroar</a>
+</td>
+<td style="border-left:2px solid grey">815
+</td>
+<td><a href="/wiki/Cinderace" class="mw-redirect" title="Cinderace">Cinderace</a>
+</td>
+<td style="border-left:2px solid grey">911
+</td>
+<td><a href="/wiki/Skeledirge" class="mw-redirect" title="Skeledirge">Skeledirge</a>
+</td></tr>
+<tr>
+<td style="background-color: #9FCADF; border-left:2px solid grey">7
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Squirtle" title="Squirtle">Squirtle</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">158
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Totodile" class="mw-redirect" title="Totodile">Totodile</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">258
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Mudkip" class="mw-redirect" title="Mudkip">Mudkip</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">393
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Piplup" class="mw-redirect" title="Piplup">Piplup</a><sup>S</sup>
+</td>
+<td style="border-left:2px solid grey">500
+</td>
+<td><a href="/wiki/Emboar" class="mw-redirect" title="Emboar">Emboar</a>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">656
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Froakie" class="mw-redirect" title="Froakie">Froakie</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">728
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Popplio" class="mw-redirect" title="Popplio">Popplio</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">816
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Sobble" title="Sobble">Sobble</a><sup>S</sup>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">912
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Quaxly" class="mw-redirect" title="Quaxly">Quaxly</a><sup>S</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">8
+</td>
+<td><a href="/wiki/Wartortle" class="mw-redirect" title="Wartortle">Wartortle</a>
+</td>
+<td style="border-left:2px solid grey">159
+</td>
+<td><a href="/wiki/Croconaw" class="mw-redirect" title="Croconaw">Croconaw</a>
+</td>
+<td style="border-left:2px solid grey">259
+</td>
+<td><a href="/wiki/Marshtomp" class="mw-redirect" title="Marshtomp">Marshtomp</a>
+</td>
+<td style="border-left:2px solid grey">394
+</td>
+<td><a href="/wiki/Prinplup" class="mw-redirect" title="Prinplup">Prinplup</a>
+</td>
+<td style="background-color: #9FCADF; border-left:2px solid grey">501
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Oshawott" class="mw-redirect" title="Oshawott">Oshawott</a><sup>S</sup>
+</td>
+<td style="border-left:2px solid grey">657
+</td>
+<td><a href="/wiki/Frogadier" class="mw-redirect" title="Frogadier">Frogadier</a>
+</td>
+<td style="border-left:2px solid grey">729
+</td>
+<td><a href="/wiki/Brionne_(Pok%C3%A9mon)" class="mw-redirect" title="Brionne (Pokémon)">Brionne</a>
+</td>
+<td style="border-left:2px solid grey">817
+</td>
+<td><a href="/wiki/Drizzile" class="mw-redirect" title="Drizzile">Drizzile</a>
+</td>
+<td style="border-left:2px solid grey">913
+</td>
+<td><a href="/wiki/Quaxwell" class="mw-redirect" title="Quaxwell">Quaxwell</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">9
+</td>
+<td><a href="/wiki/Blastoise" title="Blastoise">Blastoise</a>
+</td>
+<td style="border-left:2px solid grey">160
+</td>
+<td><a href="/wiki/Feraligatr" class="mw-redirect" title="Feraligatr">Feraligatr</a>
+</td>
+<td style="border-left:2px solid grey">260
+</td>
+<td><a href="/wiki/Swampert" class="mw-redirect" title="Swampert">Swampert</a>
+</td>
+<td style="border-left:2px solid grey">395
+</td>
+<td><a href="/wiki/Empoleon" class="mw-redirect" title="Empoleon">Empoleon</a>
+</td>
+<td style="border-left:2px solid grey">502
+</td>
+<td><a href="/wiki/Dewott" class="mw-redirect" title="Dewott">Dewott</a>
+</td>
+<td style="border-left:2px solid grey">658
+</td>
+<td><a href="/wiki/Greninja" class="mw-redirect" title="Greninja">Greninja</a>
+</td>
+<td style="border-left:2px solid grey">730
+</td>
+<td><a href="/wiki/Primarina" class="mw-redirect" title="Primarina">Primarina</a>
+</td>
+<td style="border-left:2px solid grey">818
+</td>
+<td><a href="/wiki/Inteleon" class="mw-redirect" title="Inteleon">Inteleon</a>
+</td>
+<td style="border-left:2px solid grey">914
+</td>
+<td><a href="/wiki/Quaquaval" class="mw-redirect" title="Quaquaval">Quaquaval</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">10
+</td>
+<td><a href="/wiki/Caterpie" class="mw-redirect" title="Caterpie">Caterpie</a>
+</td>
+<td style="border-left:2px solid grey">161
+</td>
+<td><a href="/wiki/Sentret" class="mw-redirect" title="Sentret">Sentret</a>
+</td>
+<td style="border-left:2px solid grey">261
+</td>
+<td><a href="/wiki/Poochyena" class="mw-redirect" title="Poochyena">Poochyena</a>
+</td>
+<td style="border-left:2px solid grey">396
+</td>
+<td><a href="/wiki/Starly" class="mw-redirect" title="Starly">Starly</a>
+</td>
+<td style="border-left:2px solid grey">503
+</td>
+<td><a href="/wiki/Samurott" class="mw-redirect" title="Samurott">Samurott</a>
+</td>
+<td style="border-left:2px solid grey">659
+</td>
+<td><a href="/wiki/Bunnelby" class="mw-redirect" title="Bunnelby">Bunnelby</a>
+</td>
+<td style="border-left:2px solid grey">731
+</td>
+<td><a href="/wiki/Pikipek" class="mw-redirect" title="Pikipek">Pikipek</a>
+</td>
+<td style="border-left:2px solid grey">819
+</td>
+<td><a href="/wiki/Skwovet" class="mw-redirect" title="Skwovet">Skwovet</a>
+</td>
+<td style="border-left:2px solid grey">915
+</td>
+<td><a href="/wiki/Lechonk" class="mw-redirect" title="Lechonk">Lechonk</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">11
+</td>
+<td><a href="/wiki/Metapod" class="mw-redirect" title="Metapod">Metapod</a>
+</td>
+<td style="border-left:2px solid grey">162
+</td>
+<td><a href="/wiki/Furret" class="mw-redirect" title="Furret">Furret</a>
+</td>
+<td style="border-left:2px solid grey">262
+</td>
+<td><a href="/wiki/Mightyena" class="mw-redirect" title="Mightyena">Mightyena</a>
+</td>
+<td style="border-left:2px solid grey">397
+</td>
+<td><a href="/wiki/Staravia" class="mw-redirect" title="Staravia">Staravia</a>
+</td>
+<td style="border-left:2px solid grey">504
+</td>
+<td><a href="/wiki/Patrat" class="mw-redirect" title="Patrat">Patrat</a>
+</td>
+<td style="border-left:2px solid grey">660
+</td>
+<td><a href="/wiki/Diggersby" class="mw-redirect" title="Diggersby">Diggersby</a>
+</td>
+<td style="border-left:2px solid grey">732
+</td>
+<td><a href="/wiki/Trumbeak" class="mw-redirect" title="Trumbeak">Trumbeak</a>
+</td>
+<td style="border-left:2px solid grey">820
+</td>
+<td><a href="/wiki/Greedent" class="mw-redirect" title="Greedent">Greedent</a>
+</td>
+<td style="border-left:2px solid grey">916
+</td>
+<td><a href="/wiki/Oinkologne" class="mw-redirect" title="Oinkologne">Oinkologne</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">12
+</td>
+<td><a href="/wiki/Butterfree" title="Butterfree">Butterfree</a>
+</td>
+<td style="border-left:2px solid grey">163
+</td>
+<td><a href="/wiki/Hoothoot" class="mw-redirect" title="Hoothoot">Hoothoot</a>
+</td>
+<td style="border-left:2px solid grey">263
+</td>
+<td><a href="/wiki/Zigzagoon" class="mw-redirect" title="Zigzagoon">Zigzagoon</a>
+</td>
+<td style="border-left:2px solid grey">398
+</td>
+<td><a href="/wiki/Staraptor" class="mw-redirect" title="Staraptor">Staraptor</a>
+</td>
+<td style="border-left:2px solid grey">505
+</td>
+<td><a href="/wiki/Watchog" class="mw-redirect" title="Watchog">Watchog</a>
+</td>
+<td style="border-left:2px solid grey">661
+</td>
+<td><a href="/wiki/Fletchling" class="mw-redirect" title="Fletchling">Fletchling</a>
+</td>
+<td style="border-left:2px solid grey">733
+</td>
+<td><a href="/wiki/Toucannon" class="mw-redirect" title="Toucannon">Toucannon</a>
+</td>
+<td style="border-left:2px solid grey">821
+</td>
+<td><a href="/wiki/Rookidee" class="mw-redirect" title="Rookidee">Rookidee</a>
+</td>
+<td style="border-left:2px solid grey">917
+</td>
+<td><a href="/wiki/Tarountula" class="mw-redirect" title="Tarountula">Tarountula</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">13
+</td>
+<td><a href="/wiki/Weedle" class="mw-redirect" title="Weedle">Weedle</a>
+</td>
+<td style="border-left:2px solid grey">164
+</td>
+<td><a href="/wiki/Noctowl" class="mw-redirect" title="Noctowl">Noctowl</a>
+</td>
+<td style="border-left:2px solid grey">264
+</td>
+<td><a href="/wiki/Linoone" class="mw-redirect" title="Linoone">Linoone</a>
+</td>
+<td style="border-left:2px solid grey">399
+</td>
+<td><a href="/wiki/Bidoof" class="mw-redirect" title="Bidoof">Bidoof</a>
+</td>
+<td style="border-left:2px solid grey">506
+</td>
+<td><a href="/wiki/Lillipup" class="mw-redirect" title="Lillipup">Lillipup</a>
+</td>
+<td style="border-left:2px solid grey">662
+</td>
+<td><a href="/wiki/Fletchinder" class="mw-redirect" title="Fletchinder">Fletchinder</a>
+</td>
+<td style="border-left:2px solid grey">734
+</td>
+<td><a href="/wiki/Yungoos" class="mw-redirect" title="Yungoos">Yungoos</a>
+</td>
+<td style="border-left:2px solid grey">822
+</td>
+<td><a href="/wiki/Corvisquire" class="mw-redirect" title="Corvisquire">Corvisquire</a>
+</td>
+<td style="border-left:2px solid grey">918
+</td>
+<td><a href="/wiki/Spidops" class="mw-redirect" title="Spidops">Spidops</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">14
+</td>
+<td><a href="/wiki/Kakuna_(Pok%C3%A9mon)" class="mw-redirect" title="Kakuna (Pokémon)">Kakuna</a>
+</td>
+<td style="border-left:2px solid grey">165
+</td>
+<td><a href="/wiki/Ledyba" class="mw-redirect" title="Ledyba">Ledyba</a>
+</td>
+<td style="border-left:2px solid grey">265
+</td>
+<td><a href="/wiki/Wurmple" class="mw-redirect" title="Wurmple">Wurmple</a>
+</td>
+<td style="border-left:2px solid grey">400
+</td>
+<td><a href="/wiki/Bibarel" class="mw-redirect" title="Bibarel">Bibarel</a>
+</td>
+<td style="border-left:2px solid grey">507
+</td>
+<td><a href="/wiki/Herdier" class="mw-redirect" title="Herdier">Herdier</a>
+</td>
+<td style="border-left:2px solid grey">663
+</td>
+<td><a href="/wiki/Talonflame" title="Talonflame">Talonflame</a>
+</td>
+<td style="border-left:2px solid grey">735
+</td>
+<td><a href="/wiki/Gumshoos" class="mw-redirect" title="Gumshoos">Gumshoos</a>
+</td>
+<td style="border-left:2px solid grey">823
+</td>
+<td><a href="/wiki/Corviknight" class="mw-redirect" title="Corviknight">Corviknight</a>
+</td>
+<td style="border-left:2px solid grey">919
+</td>
+<td><a href="/wiki/Nymble_(Pok%C3%A9mon)" class="mw-redirect" title="Nymble (Pokémon)">Nymble</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">15
+</td>
+<td><a href="/wiki/Beedrill" class="mw-redirect" title="Beedrill">Beedrill</a>
+</td>
+<td style="border-left:2px solid grey">166
+</td>
+<td><a href="/wiki/Ledian" class="mw-redirect" title="Ledian">Ledian</a>
+</td>
+<td style="border-left:2px solid grey">266
+</td>
+<td><a href="/wiki/Silcoon" class="mw-redirect" title="Silcoon">Silcoon</a>
+</td>
+<td style="border-left:2px solid grey">401
+</td>
+<td><a href="/wiki/Kricketot" class="mw-redirect" title="Kricketot">Kricketot</a>
+</td>
+<td style="border-left:2px solid grey">508
+</td>
+<td><a href="/wiki/Stoutland_(Pok%C3%A9mon)" class="mw-redirect" title="Stoutland (Pokémon)">Stoutland</a>
+</td>
+<td style="border-left:2px solid grey">664
+</td>
+<td><a href="/wiki/Scatterbug" class="mw-redirect" title="Scatterbug">Scatterbug</a>
+</td>
+<td style="border-left:2px solid grey">736
+</td>
+<td><a href="/wiki/Grubbin" class="mw-redirect" title="Grubbin">Grubbin</a>
+</td>
+<td style="border-left:2px solid grey">824
+</td>
+<td><a href="/wiki/Blipbug" class="mw-redirect" title="Blipbug">Blipbug</a>
+</td>
+<td style="border-left:2px solid grey">920
+</td>
+<td><a href="/wiki/Lokix" class="mw-redirect" title="Lokix">Lokix</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">16
+</td>
+<td><a href="/wiki/Pidgey_(Pok%C3%A9mon)" class="mw-redirect" title="Pidgey (Pokémon)">Pidgey</a>
+</td>
+<td style="border-left:2px solid grey">167
+</td>
+<td><a href="/wiki/Spinarak" class="mw-redirect" title="Spinarak">Spinarak</a>
+</td>
+<td style="border-left:2px solid grey">267
+</td>
+<td><a href="/wiki/Beautifly" class="mw-redirect" title="Beautifly">Beautifly</a>
+</td>
+<td style="border-left:2px solid grey">402
+</td>
+<td><a href="/wiki/Kricketune" class="mw-redirect" title="Kricketune">Kricketune</a>
+</td>
+<td style="border-left:2px solid grey">509
+</td>
+<td><a href="/wiki/Purrloin" class="mw-redirect" title="Purrloin">Purrloin</a>
+</td>
+<td style="border-left:2px solid grey">665
+</td>
+<td><a href="/wiki/Spewpa" class="mw-redirect" title="Spewpa">Spewpa</a>
+</td>
+<td style="border-left:2px solid grey">737
+</td>
+<td><a href="/wiki/Charjabug" class="mw-redirect" title="Charjabug">Charjabug</a>
+</td>
+<td style="border-left:2px solid grey">825
+</td>
+<td><a href="/wiki/Dottler" class="mw-redirect" title="Dottler">Dottler</a>
+</td>
+<td style="border-left:2px solid grey">921
+</td>
+<td><a href="/wiki/Pawmi" class="mw-redirect" title="Pawmi">Pawmi</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">17
+</td>
+<td><a href="/wiki/Pidgeotto" class="mw-redirect" title="Pidgeotto">Pidgeotto</a>
+</td>
+<td style="border-left:2px solid grey">168
+</td>
+<td><a href="/wiki/Ariados" class="mw-redirect" title="Ariados">Ariados</a>
+</td>
+<td style="border-left:2px solid grey">268
+</td>
+<td><a href="/wiki/Cascoon" class="mw-redirect" title="Cascoon">Cascoon</a>
+</td>
+<td style="border-left:2px solid grey">403
+</td>
+<td><a href="/wiki/Shinx" class="mw-redirect" title="Shinx">Shinx</a>
+</td>
+<td style="border-left:2px solid grey">510
+</td>
+<td><a href="/wiki/Liepard" class="mw-redirect" title="Liepard">Liepard</a>
+</td>
+<td style="border-left:2px solid grey">666
+</td>
+<td><a href="/wiki/Vivillon" class="mw-redirect" title="Vivillon">Vivillon</a>
+</td>
+<td style="border-left:2px solid grey">738
+</td>
+<td><a href="/wiki/Vikavolt" class="mw-redirect" title="Vikavolt">Vikavolt</a>
+</td>
+<td style="border-left:2px solid grey">826
+</td>
+<td><a href="/wiki/Orbeetle" class="mw-redirect" title="Orbeetle">Orbeetle</a>
+</td>
+<td style="border-left:2px solid grey">922
+</td>
+<td><a href="/wiki/Pawmo" class="mw-redirect" title="Pawmo">Pawmo</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">18
+</td>
+<td><a href="/wiki/Pidgeot" class="mw-redirect" title="Pidgeot">Pidgeot</a>
+</td>
+<td style="border-left:2px solid grey">169
+</td>
+<td><a href="/wiki/Crobat" class="mw-redirect" title="Crobat">Crobat</a>
+</td>
+<td style="border-left:2px solid grey">269
+</td>
+<td><a href="/wiki/Dustox" class="mw-redirect" title="Dustox">Dustox</a>
+</td>
+<td style="border-left:2px solid grey">404
+</td>
+<td><a href="/wiki/Luxio_(Pok%C3%A9mon)" class="mw-redirect" title="Luxio (Pokémon)">Luxio</a>
+</td>
+<td style="border-left:2px solid grey">511
+</td>
+<td><a href="/wiki/Pansage" class="mw-redirect" title="Pansage">Pansage</a>
+</td>
+<td style="border-left:2px solid grey">667
+</td>
+<td><a href="/wiki/Litleo" class="mw-redirect" title="Litleo">Litleo</a>
+</td>
+<td style="border-left:2px solid grey">739
+</td>
+<td><a href="/wiki/Crabrawler" class="mw-redirect" title="Crabrawler">Crabrawler</a>
+</td>
+<td style="border-left:2px solid grey">827
+</td>
+<td><a href="/wiki/Nickit" class="mw-redirect" title="Nickit">Nickit</a>
+</td>
+<td style="border-left:2px solid grey">923
+</td>
+<td><a href="/wiki/Pawmot" class="mw-redirect" title="Pawmot">Pawmot</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">19
+</td>
+<td><a href="/wiki/Rattata" class="mw-redirect" title="Rattata">Rattata</a>
+</td>
+<td style="border-left:2px solid grey">170
+</td>
+<td><a href="/wiki/List_of_generation_II_Pok%C3%A9mon#Chinchou" title="List of generation II Pokémon">Chinchou</a>
+</td>
+<td style="border-left:2px solid grey">270
+</td>
+<td><a href="/wiki/Lotad" class="mw-redirect" title="Lotad">Lotad</a>
+</td>
+<td style="border-left:2px solid grey">405
+</td>
+<td><a href="/wiki/Luxray" class="mw-redirect" title="Luxray">Luxray</a>
+</td>
+<td style="border-left:2px solid grey">512
+</td>
+<td><a href="/wiki/Simisage" class="mw-redirect" title="Simisage">Simisage</a>
+</td>
+<td style="border-left:2px solid grey">668
+</td>
+<td><a href="/wiki/Pyroar" class="mw-redirect" title="Pyroar">Pyroar</a>
+</td>
+<td style="border-left:2px solid grey">740
+</td>
+<td><a href="/wiki/Crabominable" class="mw-redirect" title="Crabominable">Crabominable</a>
+</td>
+<td style="border-left:2px solid grey">828
+</td>
+<td><a href="/wiki/Thievul" class="mw-redirect" title="Thievul">Thievul</a>
+</td>
+<td style="border-left:2px solid grey">924
+</td>
+<td><a href="/wiki/Tandemaus" class="mw-redirect" title="Tandemaus">Tandemaus</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">20
+</td>
+<td><a href="/wiki/Raticate" class="mw-redirect" title="Raticate">Raticate</a>
+</td>
+<td style="border-left:2px solid grey">171
+</td>
+<td><a href="/wiki/Lanturn" class="mw-redirect" title="Lanturn">Lanturn</a>
+</td>
+<td style="border-left:2px solid grey">271
+</td>
+<td><a href="/wiki/Lombre" class="mw-redirect" title="Lombre">Lombre</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">406
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Budew" class="mw-redirect" title="Budew">Budew</a><sup>B</sup><sup id="cite_ref-LABaby_54-0" class="reference"><a href="#cite_note-LABaby-54"><span class="cite-bracket">[</span>g<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">513
+</td>
+<td><a href="/wiki/Pansear" class="mw-redirect" title="Pansear">Pansear</a>
+</td>
+<td style="border-left:2px solid grey">669
+</td>
+<td><a href="/wiki/Flab%C3%A9b%C3%A9" class="mw-redirect" title="Flabébé">Flabébé</a>
+</td>
+<td style="border-left:2px solid grey">741
+</td>
+<td><a href="/wiki/Oricorio" class="mw-redirect" title="Oricorio">Oricorio</a>
+</td>
+<td style="border-left:2px solid grey">829
+</td>
+<td><a href="/wiki/Gossifleur" class="mw-redirect" title="Gossifleur">Gossifleur</a>
+</td>
+<td style="border-left:2px solid grey">925
+</td>
+<td><a href="/wiki/Maushold" class="mw-redirect" title="Maushold">Maushold</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">21
+</td>
+<td><a href="/wiki/Spearow" class="mw-redirect" title="Spearow">Spearow</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">172
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Pichu" class="mw-redirect" title="Pichu">Pichu</a><sup>B</sup><sup id="cite_ref-LABaby_54-1" class="reference"><a href="#cite_note-LABaby-54"><span class="cite-bracket">[</span>g<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">272
+</td>
+<td><a href="/wiki/Ludicolo" class="mw-redirect" title="Ludicolo">Ludicolo</a>
+</td>
+<td style="border-left:2px solid grey">407
+</td>
+<td><a href="/wiki/Roserade" class="mw-redirect" title="Roserade">Roserade</a>
+</td>
+<td style="border-left:2px solid grey">514
+</td>
+<td><a href="/wiki/Simisear" class="mw-redirect" title="Simisear">Simisear</a>
+</td>
+<td style="border-left:2px solid grey">670
+</td>
+<td><a href="/wiki/Floette" class="mw-redirect" title="Floette">Floette</a>
+</td>
+<td style="border-left:2px solid grey">742
+</td>
+<td><a href="/wiki/Cutiefly" class="mw-redirect" title="Cutiefly">Cutiefly</a>
+</td>
+<td style="border-left:2px solid grey">830
+</td>
+<td><a href="/wiki/Eldegoss" class="mw-redirect" title="Eldegoss">Eldegoss</a>
+</td>
+<td style="border-left:2px solid grey">926
+</td>
+<td><a href="/wiki/Fidough" class="mw-redirect" title="Fidough">Fidough</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">22
+</td>
+<td><a href="/wiki/Fearow" class="mw-redirect" title="Fearow">Fearow</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">173
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Cleffa" class="mw-redirect" title="Cleffa">Cleffa</a><sup>B</sup><sup id="cite_ref-LABaby_54-2" class="reference"><a href="#cite_note-LABaby-54"><span class="cite-bracket">[</span>g<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">273
+</td>
+<td><a href="/wiki/Seedot" class="mw-redirect" title="Seedot">Seedot</a>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">408
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Cranidos" class="mw-redirect" title="Cranidos">Cranidos</a><sup>F</sup><sup id="cite_ref-LAfossil_55-0" class="reference"><a href="#cite_note-LAfossil-55"><span class="cite-bracket">[</span>h<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">515
+</td>
+<td><a href="/wiki/Panpour" class="mw-redirect" title="Panpour">Panpour</a>
+</td>
+<td style="border-left:2px solid grey">671
+</td>
+<td><a href="/wiki/Florges" class="mw-redirect" title="Florges">Florges</a>
+</td>
+<td style="border-left:2px solid grey">743
+</td>
+<td><a href="/wiki/Ribombee" class="mw-redirect" title="Ribombee">Ribombee</a>
+</td>
+<td style="border-left:2px solid grey">831
+</td>
+<td><a href="/wiki/Wooloo" title="Wooloo">Wooloo</a>
+</td>
+<td style="border-left:2px solid grey">927
+</td>
+<td><a href="/wiki/Dachsbun" class="mw-redirect" title="Dachsbun">Dachsbun</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">23
+</td>
+<td><a href="/wiki/Ekans" class="mw-redirect" title="Ekans">Ekans</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">174
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Igglybuff" class="mw-redirect" title="Igglybuff">Igglybuff</a><sup>B</sup>
+</td>
+<td style="border-left:2px solid grey">274
+</td>
+<td><a href="/wiki/Nuzleaf" class="mw-redirect" title="Nuzleaf">Nuzleaf</a>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">409
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Rampardos" class="mw-redirect" title="Rampardos">Rampardos</a><sup>F</sup><sup id="cite_ref-LAfossil_55-1" class="reference"><a href="#cite_note-LAfossil-55"><span class="cite-bracket">[</span>h<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">516
+</td>
+<td><a href="/wiki/Simipour" class="mw-redirect" title="Simipour">Simipour</a>
+</td>
+<td style="border-left:2px solid grey">672
+</td>
+<td><a href="/wiki/Skiddo" class="mw-redirect" title="Skiddo">Skiddo</a>
+</td>
+<td style="border-left:2px solid grey">744
+</td>
+<td><a href="/wiki/Rockruff" class="mw-redirect" title="Rockruff">Rockruff</a>
+</td>
+<td style="border-left:2px solid grey">832
+</td>
+<td><a href="/wiki/Dubwool" class="mw-redirect" title="Dubwool">Dubwool</a>
+</td>
+<td style="border-left:2px solid grey">928
+</td>
+<td><a href="/wiki/Smoliv" class="mw-redirect" title="Smoliv">Smoliv</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">24
+</td>
+<td><a href="/wiki/Arbok" class="mw-redirect" title="Arbok">Arbok</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">175
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Togepi" class="mw-redirect" title="Togepi">Togepi</a><sup>B</sup><sup id="cite_ref-LABaby_54-3" class="reference"><a href="#cite_note-LABaby-54"><span class="cite-bracket">[</span>g<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">275
+</td>
+<td><a href="/wiki/Shiftry" class="mw-redirect" title="Shiftry">Shiftry</a>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">410
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Shieldon" class="mw-redirect" title="Shieldon">Shieldon</a><sup>F</sup><sup id="cite_ref-LAfossil_55-2" class="reference"><a href="#cite_note-LAfossil-55"><span class="cite-bracket">[</span>h<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">517
+</td>
+<td><a href="/wiki/Munna_(Pok%C3%A9mon)" class="mw-redirect" title="Munna (Pokémon)">Munna</a>
+</td>
+<td style="border-left:2px solid grey">673
+</td>
+<td><a href="/wiki/Gogoat" class="mw-redirect" title="Gogoat">Gogoat</a>
+</td>
+<td style="border-left:2px solid grey">745
+</td>
+<td><a href="/wiki/Lycanroc" class="mw-redirect" title="Lycanroc">Lycanroc</a>
+</td>
+<td style="border-left:2px solid grey">833
+</td>
+<td><a href="/wiki/Chewtle" class="mw-redirect" title="Chewtle">Chewtle</a>
+</td>
+<td style="border-left:2px solid grey">929
+</td>
+<td><a href="/wiki/Dolliv" class="mw-redirect" title="Dolliv">Dolliv</a>
+</td></tr>
+<tr>
+<td style="background-color: #9FCADF; border-left:2px solid grey">25
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Pikachu" title="Pikachu">Pikachu</a><sup>S</sup>
+</td>
+<td style="border-left:2px solid grey">176
+</td>
+<td><a href="/wiki/Togetic" class="mw-redirect" title="Togetic">Togetic</a>
+</td>
+<td style="border-left:2px solid grey">276
+</td>
+<td><a href="/wiki/Taillow" class="mw-redirect" title="Taillow">Taillow</a>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">411
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Bastiodon" class="mw-redirect" title="Bastiodon">Bastiodon</a><sup>F</sup><sup id="cite_ref-LAfossil_55-3" class="reference"><a href="#cite_note-LAfossil-55"><span class="cite-bracket">[</span>h<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">518
+</td>
+<td><a href="/wiki/Musharna" class="mw-redirect" title="Musharna">Musharna</a>
+</td>
+<td style="border-left:2px solid grey">674
+</td>
+<td><a href="/wiki/Pancham_(Pok%C3%A9mon)" class="mw-redirect" title="Pancham (Pokémon)">Pancham</a>
+</td>
+<td style="border-left:2px solid grey">746
+</td>
+<td><a href="/wiki/Wishiwashi" class="mw-redirect" title="Wishiwashi">Wishiwashi</a>
+</td>
+<td style="border-left:2px solid grey">834
+</td>
+<td><a href="/wiki/Drednaw" class="mw-redirect" title="Drednaw">Drednaw</a>
+</td>
+<td style="border-left:2px solid grey">930
+</td>
+<td><a href="/wiki/Arboliva" class="mw-redirect" title="Arboliva">Arboliva</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">26
+</td>
+<td><a href="/wiki/Raichu" title="Raichu">Raichu</a>
+</td>
+<td style="border-left:2px solid grey">177
+</td>
+<td><a href="/wiki/Natu_(Pok%C3%A9mon)" class="mw-redirect" title="Natu (Pokémon)">Natu</a>
+</td>
+<td style="border-left:2px solid grey">277
+</td>
+<td><a href="/wiki/Swellow" class="mw-redirect" title="Swellow">Swellow</a>
+</td>
+<td style="border-left:2px solid grey">412
+</td>
+<td><a href="/wiki/Burmy" class="mw-redirect" title="Burmy">Burmy</a>
+</td>
+<td style="border-left:2px solid grey">519
+</td>
+<td><a href="/wiki/Pidove" class="mw-redirect" title="Pidove">Pidove</a>
+</td>
+<td style="border-left:2px solid grey">675
+</td>
+<td><a href="/wiki/Pangoro" class="mw-redirect" title="Pangoro">Pangoro</a>
+</td>
+<td style="border-left:2px solid grey">747
+</td>
+<td><a href="/wiki/Mareanie" class="mw-redirect" title="Mareanie">Mareanie</a>
+</td>
+<td style="border-left:2px solid grey">835
+</td>
+<td><a href="/wiki/Yamper" class="mw-redirect" title="Yamper">Yamper</a>
+</td>
+<td style="border-left:2px solid grey">931
+</td>
+<td><a href="/wiki/Squawkabilly" class="mw-redirect" title="Squawkabilly">Squawkabilly</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">27
+</td>
+<td><a href="/wiki/Sandshrew" class="mw-redirect" title="Sandshrew">Sandshrew</a>
+</td>
+<td style="border-left:2px solid grey">178
+</td>
+<td><a href="/wiki/Xatu" class="mw-redirect" title="Xatu">Xatu</a>
+</td>
+<td style="border-left:2px solid grey">278
+</td>
+<td><a href="/wiki/Wingull" class="mw-redirect" title="Wingull">Wingull</a>
+</td>
+<td style="border-left:2px solid grey">413
+</td>
+<td><a href="/wiki/Wormadam" class="mw-redirect" title="Wormadam">Wormadam</a>
+</td>
+<td style="border-left:2px solid grey">520
+</td>
+<td><a href="/wiki/Tranquill" class="mw-redirect" title="Tranquill">Tranquill</a>
+</td>
+<td style="border-left:2px solid grey">676
+</td>
+<td><a href="/wiki/Furfrou" class="mw-redirect" title="Furfrou">Furfrou</a>
+</td>
+<td style="border-left:2px solid grey">748
+</td>
+<td><a href="/wiki/Toxapex" class="mw-redirect" title="Toxapex">Toxapex</a>
+</td>
+<td style="border-left:2px solid grey">836
+</td>
+<td><a href="/wiki/Boltund" class="mw-redirect" title="Boltund">Boltund</a>
+</td>
+<td style="border-left:2px solid grey">932
+</td>
+<td><a href="/wiki/Nacli" class="mw-redirect" title="Nacli">Nacli</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">28
+</td>
+<td><a href="/wiki/Sandslash" class="mw-redirect" title="Sandslash">Sandslash</a>
+</td>
+<td style="border-left:2px solid grey">179
+</td>
+<td><a href="/wiki/Mareep" class="mw-redirect" title="Mareep">Mareep</a>
+</td>
+<td style="border-left:2px solid grey">279
+</td>
+<td><a href="/wiki/Pelipper" class="mw-redirect" title="Pelipper">Pelipper</a>
+</td>
+<td style="border-left:2px solid grey">414
+</td>
+<td><a href="/wiki/Mothim" class="mw-redirect" title="Mothim">Mothim</a>
+</td>
+<td style="border-left:2px solid grey">521
+</td>
+<td><a href="/wiki/Unfezant" class="mw-redirect" title="Unfezant">Unfezant</a>
+</td>
+<td style="border-left:2px solid grey">677
+</td>
+<td><a href="/wiki/Espurr" class="mw-redirect" title="Espurr">Espurr</a>
+</td>
+<td style="border-left:2px solid grey">749
+</td>
+<td><a href="/wiki/Mudbray" class="mw-redirect" title="Mudbray">Mudbray</a>
+</td>
+<td style="border-left:2px solid grey">837
+</td>
+<td><a href="/wiki/Rolycoly" class="mw-redirect" title="Rolycoly">Rolycoly</a>
+</td>
+<td style="border-left:2px solid grey">933
+</td>
+<td><a href="/wiki/Naclstack" class="mw-redirect" title="Naclstack">Naclstack</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">29
+</td>
+<td><a href="/wiki/Nidoran%E2%99%80" class="mw-redirect" title="Nidoran♀">Nidoran♀</a>
+</td>
+<td style="border-left:2px solid grey">180
+</td>
+<td><a href="/wiki/Flaaffy" class="mw-redirect" title="Flaaffy">Flaaffy</a>
+</td>
+<td style="border-left:2px solid grey">280
+</td>
+<td><a href="/wiki/Ralts" class="mw-redirect" title="Ralts">Ralts</a>
+</td>
+<td style="border-left:2px solid grey">415
+</td>
+<td><a href="/wiki/Combee" class="mw-redirect" title="Combee">Combee</a>
+</td>
+<td style="border-left:2px solid grey">522
+</td>
+<td><a href="/wiki/Blitzle" class="mw-redirect" title="Blitzle">Blitzle</a>
+</td>
+<td style="border-left:2px solid grey">678
+</td>
+<td><a href="/wiki/Meowstic" class="mw-redirect" title="Meowstic">Meowstic</a>
+</td>
+<td style="border-left:2px solid grey">750
+</td>
+<td><a href="/wiki/Mudsdale" class="mw-redirect" title="Mudsdale">Mudsdale</a>
+</td>
+<td style="border-left:2px solid grey">838
+</td>
+<td><a href="/wiki/Carkol" class="mw-redirect" title="Carkol">Carkol</a>
+</td>
+<td style="border-left:2px solid grey">934
+</td>
+<td><a href="/wiki/Garganacl" class="mw-redirect" title="Garganacl">Garganacl</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">30
+</td>
+<td><a href="/wiki/Nidorina" class="mw-redirect" title="Nidorina">Nidorina</a>
+</td>
+<td style="border-left:2px solid grey">181
+</td>
+<td><a href="/wiki/Ampharos" class="mw-redirect" title="Ampharos">Ampharos</a>
+</td>
+<td style="border-left:2px solid grey">281
+</td>
+<td><a href="/wiki/Kirlia" class="mw-redirect" title="Kirlia">Kirlia</a>
+</td>
+<td style="border-left:2px solid grey">416
+</td>
+<td><a href="/wiki/Vespiquen" class="mw-redirect" title="Vespiquen">Vespiquen</a>
+</td>
+<td style="border-left:2px solid grey">523
+</td>
+<td><a href="/wiki/Zebstrika" class="mw-redirect" title="Zebstrika">Zebstrika</a>
+</td>
+<td style="border-left:2px solid grey">679
+</td>
+<td><a href="/wiki/Honedge" class="mw-redirect" title="Honedge">Honedge</a>
+</td>
+<td style="border-left:2px solid grey">751
+</td>
+<td><a href="/wiki/Dewpider" class="mw-redirect" title="Dewpider">Dewpider</a>
+</td>
+<td style="border-left:2px solid grey">839
+</td>
+<td><a href="/wiki/Coalossal" class="mw-redirect" title="Coalossal">Coalossal</a>
+</td>
+<td style="border-left:2px solid grey">935
+</td>
+<td><a href="/wiki/Charcadet" class="mw-redirect" title="Charcadet">Charcadet</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">31
+</td>
+<td><a href="/wiki/Nidoqueen" class="mw-redirect" title="Nidoqueen">Nidoqueen</a>
+</td>
+<td style="border-left:2px solid grey">182
+</td>
+<td><a href="/wiki/Bellossom" class="mw-redirect" title="Bellossom">Bellossom</a>
+</td>
+<td style="border-left:2px solid grey">282
+</td>
+<td><a href="/wiki/Gardevoir" title="Gardevoir">Gardevoir</a>
+</td>
+<td style="border-left:2px solid grey">417
+</td>
+<td><a href="/wiki/Pachirisu" title="Pachirisu">Pachirisu</a>
+</td>
+<td style="border-left:2px solid grey">524
+</td>
+<td><a href="/wiki/Roggenrola" class="mw-redirect" title="Roggenrola">Roggenrola</a>
+</td>
+<td style="border-left:2px solid grey">680
+</td>
+<td><a href="/wiki/Doublade" class="mw-redirect" title="Doublade">Doublade</a>
+</td>
+<td style="border-left:2px solid grey">752
+</td>
+<td><a href="/wiki/Araquanid" class="mw-redirect" title="Araquanid">Araquanid</a>
+</td>
+<td style="border-left:2px solid grey">840
+</td>
+<td><a href="/wiki/Applin_(Pok%C3%A9mon)" class="mw-redirect" title="Applin (Pokémon)">Applin</a>
+</td>
+<td style="border-left:2px solid grey">936
+</td>
+<td><a href="/wiki/Armarouge" class="mw-redirect" title="Armarouge">Armarouge</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">32
+</td>
+<td><a href="/wiki/Nidoran%E2%99%82" class="mw-redirect" title="Nidoran♂">Nidoran♂</a>
+</td>
+<td style="border-left:2px solid grey">183
+</td>
+<td><a href="/wiki/Marill" class="mw-redirect" title="Marill">Marill</a>
+</td>
+<td style="border-left:2px solid grey">283
+</td>
+<td><a href="/wiki/Surskit" class="mw-redirect" title="Surskit">Surskit</a>
+</td>
+<td style="border-left:2px solid grey">418
+</td>
+<td><a href="/wiki/Buizel" class="mw-redirect" title="Buizel">Buizel</a>
+</td>
+<td style="border-left:2px solid grey">525
+</td>
+<td><a href="/wiki/Boldore" class="mw-redirect" title="Boldore">Boldore</a>
+</td>
+<td style="border-left:2px solid grey">681
+</td>
+<td><a href="/wiki/Aegislash" class="mw-redirect" title="Aegislash">Aegislash</a>
+</td>
+<td style="border-left:2px solid grey">753
+</td>
+<td><a href="/wiki/Fomantis" class="mw-redirect" title="Fomantis">Fomantis</a>
+</td>
+<td style="border-left:2px solid grey">841
+</td>
+<td><a href="/wiki/Flapple" class="mw-redirect" title="Flapple">Flapple</a>
+</td>
+<td style="border-left:2px solid grey">937
+</td>
+<td><a href="/wiki/Ceruledge" class="mw-redirect" title="Ceruledge">Ceruledge</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">33
+</td>
+<td><a href="/wiki/Nidorino" class="mw-redirect" title="Nidorino">Nidorino</a>
+</td>
+<td style="border-left:2px solid grey">184
+</td>
+<td><a href="/wiki/Azumarill" class="mw-redirect" title="Azumarill">Azumarill</a>
+</td>
+<td style="border-left:2px solid grey">284
+</td>
+<td><a href="/wiki/Masquerain" class="mw-redirect" title="Masquerain">Masquerain</a>
+</td>
+<td style="border-left:2px solid grey">419
+</td>
+<td><a href="/wiki/Floatzel" class="mw-redirect" title="Floatzel">Floatzel</a>
+</td>
+<td style="border-left:2px solid grey">526
+</td>
+<td><a href="/wiki/Gigalith" class="mw-redirect" title="Gigalith">Gigalith</a>
+</td>
+<td style="border-left:2px solid grey">682
+</td>
+<td><a href="/wiki/Spritzee" class="mw-redirect" title="Spritzee">Spritzee</a>
+</td>
+<td style="border-left:2px solid grey">754
+</td>
+<td><a href="/wiki/Lurantis" class="mw-redirect" title="Lurantis">Lurantis</a>
+</td>
+<td style="border-left:2px solid grey">842
+</td>
+<td><a href="/wiki/Appletun" class="mw-redirect" title="Appletun">Appletun</a>
+</td>
+<td style="border-left:2px solid grey">938
+</td>
+<td><a href="/wiki/Tadbulb" class="mw-redirect" title="Tadbulb">Tadbulb</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">34
+</td>
+<td><a href="/wiki/Nidoking" class="mw-redirect" title="Nidoking">Nidoking</a>
+</td>
+<td style="border-left:2px solid grey">185
+</td>
+<td><a href="/wiki/Sudowoodo" title="Sudowoodo">Sudowoodo</a>
+</td>
+<td style="border-left:2px solid grey">285
+</td>
+<td><a href="/wiki/Shroomish" class="mw-redirect" title="Shroomish">Shroomish</a>
+</td>
+<td style="border-left:2px solid grey">420
+</td>
+<td><a href="/wiki/Cherubi" class="mw-redirect" title="Cherubi">Cherubi</a>
+</td>
+<td style="border-left:2px solid grey">527
+</td>
+<td><a href="/wiki/Woobat" class="mw-redirect" title="Woobat">Woobat</a>
+</td>
+<td style="border-left:2px solid grey">683
+</td>
+<td><a href="/wiki/Aromatisse" class="mw-redirect" title="Aromatisse">Aromatisse</a>
+</td>
+<td style="border-left:2px solid grey">755
+</td>
+<td><a href="/wiki/Morelull" class="mw-redirect" title="Morelull">Morelull</a>
+</td>
+<td style="border-left:2px solid grey">843
+</td>
+<td><a href="/wiki/Silicobra" class="mw-redirect" title="Silicobra">Silicobra</a>
+</td>
+<td style="border-left:2px solid grey">939
+</td>
+<td><a href="/wiki/Bellibolt" class="mw-redirect" title="Bellibolt">Bellibolt</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">35
+</td>
+<td><a href="/wiki/Clefairy" class="mw-redirect" title="Clefairy">Clefairy</a>
+</td>
+<td style="border-left:2px solid grey">186
+</td>
+<td><a href="/wiki/Politoed" class="mw-redirect" title="Politoed">Politoed</a>
+</td>
+<td style="border-left:2px solid grey">286
+</td>
+<td><a href="/wiki/Breloom" class="mw-redirect" title="Breloom">Breloom</a>
+</td>
+<td style="border-left:2px solid grey">421
+</td>
+<td><a href="/wiki/Cherrim" class="mw-redirect" title="Cherrim">Cherrim</a>
+</td>
+<td style="border-left:2px solid grey">528
+</td>
+<td><a href="/wiki/Swoobat" class="mw-redirect" title="Swoobat">Swoobat</a>
+</td>
+<td style="border-left:2px solid grey">684
+</td>
+<td><a href="/wiki/Swirlix" class="mw-redirect" title="Swirlix">Swirlix</a>
+</td>
+<td style="border-left:2px solid grey">756
+</td>
+<td><a href="/wiki/Shiinotic" class="mw-redirect" title="Shiinotic">Shiinotic</a>
+</td>
+<td style="border-left:2px solid grey">844
+</td>
+<td><a href="/wiki/Sandaconda" class="mw-redirect" title="Sandaconda">Sandaconda</a>
+</td>
+<td style="border-left:2px solid grey">940
+</td>
+<td><a href="/wiki/Wattrel" class="mw-redirect" title="Wattrel">Wattrel</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">36
+</td>
+<td><a href="/wiki/Clefable" class="mw-redirect" title="Clefable">Clefable</a>
+</td>
+<td style="border-left:2px solid grey">187
+</td>
+<td><a href="/wiki/Hoppip" class="mw-redirect" title="Hoppip">Hoppip</a>
+</td>
+<td style="border-left:2px solid grey">287
+</td>
+<td><a href="/wiki/Slakoth" class="mw-redirect" title="Slakoth">Slakoth</a>
+</td>
+<td style="border-left:2px solid grey">422
+</td>
+<td><a href="/wiki/Shellos" class="mw-redirect" title="Shellos">Shellos</a>
+</td>
+<td style="border-left:2px solid grey">529
+</td>
+<td><a href="/wiki/Drilbur" class="mw-redirect" title="Drilbur">Drilbur</a>
+</td>
+<td style="border-left:2px solid grey">685
+</td>
+<td><a href="/wiki/Slurpuff" class="mw-redirect" title="Slurpuff">Slurpuff</a>
+</td>
+<td style="border-left:2px solid grey">757
+</td>
+<td><a href="/wiki/Salandit" class="mw-redirect" title="Salandit">Salandit</a>
+</td>
+<td style="border-left:2px solid grey">845
+</td>
+<td><a href="/wiki/Cramorant" class="mw-redirect" title="Cramorant">Cramorant</a>
+</td>
+<td style="border-left:2px solid grey">941
+</td>
+<td><a href="/wiki/Kilowattrel" class="mw-redirect" title="Kilowattrel">Kilowattrel</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">37
+</td>
+<td><a href="/wiki/Vulpix" class="mw-redirect" title="Vulpix">Vulpix</a>
+</td>
+<td style="border-left:2px solid grey">188
+</td>
+<td><a href="/wiki/Skiploom" class="mw-redirect" title="Skiploom">Skiploom</a>
+</td>
+<td style="border-left:2px solid grey">288
+</td>
+<td><a href="/wiki/Vigoroth" class="mw-redirect" title="Vigoroth">Vigoroth</a>
+</td>
+<td style="border-left:2px solid grey">423
+</td>
+<td><a href="/wiki/Gastrodon" class="mw-redirect" title="Gastrodon">Gastrodon</a>
+</td>
+<td style="border-left:2px solid grey">530
+</td>
+<td><a href="/wiki/Excadrill" class="mw-redirect" title="Excadrill">Excadrill</a>
+</td>
+<td style="border-left:2px solid grey">686
+</td>
+<td><a href="/wiki/Inkay" class="mw-redirect" title="Inkay">Inkay</a>
+</td>
+<td style="border-left:2px solid grey">758
+</td>
+<td><a href="/wiki/Salazzle" class="mw-redirect" title="Salazzle">Salazzle</a>
+</td>
+<td style="border-left:2px solid grey">846
+</td>
+<td><a href="/wiki/Arrokuda" class="mw-redirect" title="Arrokuda">Arrokuda</a>
+</td>
+<td style="border-left:2px solid grey">942
+</td>
+<td><a href="/wiki/Maschiff" class="mw-redirect" title="Maschiff">Maschiff</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">38
+</td>
+<td><a href="/wiki/Ninetales" title="Ninetales">Ninetales</a>
+</td>
+<td style="border-left:2px solid grey">189
+</td>
+<td><a href="/wiki/Jumpluff" class="mw-redirect" title="Jumpluff">Jumpluff</a>
+</td>
+<td style="border-left:2px solid grey">289
+</td>
+<td><a href="/wiki/Slaking_(Pok%C3%A9mon)" class="mw-redirect" title="Slaking (Pokémon)">Slaking</a>
+</td>
+<td style="border-left:2px solid grey">424
+</td>
+<td><a href="/wiki/Ambipom" class="mw-redirect" title="Ambipom">Ambipom</a>
+</td>
+<td style="border-left:2px solid grey">531
+</td>
+<td><a href="/wiki/Audino" class="mw-redirect" title="Audino">Audino</a>
+</td>
+<td style="border-left:2px solid grey">687
+</td>
+<td><a href="/wiki/Malamar_(Pok%C3%A9mon)" class="mw-redirect" title="Malamar (Pokémon)">Malamar</a>
+</td>
+<td style="border-left:2px solid grey">759
+</td>
+<td><a href="/wiki/Stufful" class="mw-redirect" title="Stufful">Stufful</a>
+</td>
+<td style="border-left:2px solid grey">847
+</td>
+<td><a href="/wiki/Barraskewda" class="mw-redirect" title="Barraskewda">Barraskewda</a>
+</td>
+<td style="border-left:2px solid grey">943
+</td>
+<td><a href="/wiki/Mabosstiff" class="mw-redirect" title="Mabosstiff">Mabosstiff</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">39
+</td>
+<td><a href="/wiki/Jigglypuff" title="Jigglypuff">Jigglypuff</a>
+</td>
+<td style="border-left:2px solid grey">190
+</td>
+<td><a href="/wiki/Aipom" class="mw-redirect" title="Aipom">Aipom</a>
+</td>
+<td style="border-left:2px solid grey">290
+</td>
+<td><a href="/wiki/Nincada" class="mw-redirect" title="Nincada">Nincada</a>
+</td>
+<td style="border-left:2px solid grey">425
+</td>
+<td><a href="/wiki/Drifloon" class="mw-redirect" title="Drifloon">Drifloon</a>
+</td>
+<td style="border-left:2px solid grey">532
+</td>
+<td><a href="/wiki/Timburr" class="mw-redirect" title="Timburr">Timburr</a>
+</td>
+<td style="border-left:2px solid grey">688
+</td>
+<td><a href="/wiki/Binacle" class="mw-redirect" title="Binacle">Binacle</a>
+</td>
+<td style="border-left:2px solid grey">760
+</td>
+<td><a href="/wiki/Bewear" class="mw-redirect" title="Bewear">Bewear</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">848
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Toxel" class="mw-redirect" title="Toxel">Toxel</a><sup>B</sup>
+</td>
+<td style="border-left:2px solid grey">944
+</td>
+<td><a href="/wiki/Shroodle" class="mw-redirect" title="Shroodle">Shroodle</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">40
+</td>
+<td><a href="/wiki/Wigglytuff" class="mw-redirect" title="Wigglytuff">Wigglytuff</a>
+</td>
+<td style="border-left:2px solid grey">191
+</td>
+<td><a href="/wiki/Sunkern" class="mw-redirect" title="Sunkern">Sunkern</a>
+</td>
+<td style="border-left:2px solid grey">291
+</td>
+<td><a href="/wiki/Ninjask" class="mw-redirect" title="Ninjask">Ninjask</a>
+</td>
+<td style="border-left:2px solid grey">426
+</td>
+<td><a href="/wiki/Drifblim" class="mw-redirect" title="Drifblim">Drifblim</a>
+</td>
+<td style="border-left:2px solid grey">533
+</td>
+<td><a href="/wiki/Gurdurr" class="mw-redirect" title="Gurdurr">Gurdurr</a>
+</td>
+<td style="border-left:2px solid grey">689
+</td>
+<td><a href="/wiki/Barbaracle" class="mw-redirect" title="Barbaracle">Barbaracle</a>
+</td>
+<td style="border-left:2px solid grey">761
+</td>
+<td><a href="/wiki/Bounsweet" class="mw-redirect" title="Bounsweet">Bounsweet</a>
+</td>
+<td style="border-left:2px solid grey">849
+</td>
+<td><a href="/wiki/Toxtricity" class="mw-redirect" title="Toxtricity">Toxtricity</a>
+</td>
+<td style="border-left:2px solid grey">945
+</td>
+<td><a href="/wiki/Grafaiai" class="mw-redirect" title="Grafaiai">Grafaiai</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">41
+</td>
+<td><a href="/wiki/Zubat_(Pok%C3%A9mon)" class="mw-redirect" title="Zubat (Pokémon)">Zubat</a>
+</td>
+<td style="border-left:2px solid grey">192
+</td>
+<td><a href="/wiki/Sunflora" class="mw-redirect" title="Sunflora">Sunflora</a>
+</td>
+<td style="border-left:2px solid grey">292
+</td>
+<td><a href="/wiki/Shedinja" title="Shedinja">Shedinja</a>
+</td>
+<td style="border-left:2px solid grey">427
+</td>
+<td><a href="/wiki/Buneary" class="mw-redirect" title="Buneary">Buneary</a>
+</td>
+<td style="border-left:2px solid grey">534
+</td>
+<td><a href="/wiki/Conkeldurr" class="mw-redirect" title="Conkeldurr">Conkeldurr</a>
+</td>
+<td style="border-left:2px solid grey">690
+</td>
+<td><a href="/wiki/Skrelp" class="mw-redirect" title="Skrelp">Skrelp</a>
+</td>
+<td style="border-left:2px solid grey">762
+</td>
+<td><a href="/wiki/Steenee" class="mw-redirect" title="Steenee">Steenee</a>
+</td>
+<td style="border-left:2px solid grey">850
+</td>
+<td><a href="/wiki/Sizzlipede" class="mw-redirect" title="Sizzlipede">Sizzlipede</a>
+</td>
+<td style="border-left:2px solid grey">946
+</td>
+<td><a href="/wiki/Bramblin" class="mw-redirect" title="Bramblin">Bramblin</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">42
+</td>
+<td><a href="/wiki/Golbat" class="mw-redirect" title="Golbat">Golbat</a>
+</td>
+<td style="border-left:2px solid grey">193
+</td>
+<td><a href="/wiki/Yanma" class="mw-redirect" title="Yanma">Yanma</a>
+</td>
+<td style="border-left:2px solid grey">293
+</td>
+<td><a href="/wiki/Whismur" class="mw-redirect" title="Whismur">Whismur</a>
+</td>
+<td style="border-left:2px solid grey">428
+</td>
+<td><a href="/wiki/Lopunny" class="mw-redirect" title="Lopunny">Lopunny</a>
+</td>
+<td style="border-left:2px solid grey">535
+</td>
+<td><a href="/wiki/Tympole" class="mw-redirect" title="Tympole">Tympole</a>
+</td>
+<td style="border-left:2px solid grey">691
+</td>
+<td><a href="/wiki/Dragalge" class="mw-redirect" title="Dragalge">Dragalge</a>
+</td>
+<td style="border-left:2px solid grey">763
+</td>
+<td><a href="/wiki/Tsareena" class="mw-redirect" title="Tsareena">Tsareena</a>
+</td>
+<td style="border-left:2px solid grey">851
+</td>
+<td><a href="/wiki/Centiskorch" class="mw-redirect" title="Centiskorch">Centiskorch</a>
+</td>
+<td style="border-left:2px solid grey">947
+</td>
+<td><a href="/wiki/Brambleghast" class="mw-redirect" title="Brambleghast">Brambleghast</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">43
+</td>
+<td><a href="/wiki/Oddish" class="mw-redirect" title="Oddish">Oddish</a>
+</td>
+<td style="border-left:2px solid grey">194
+</td>
+<td><a href="/wiki/Wooper" title="Wooper">Wooper</a>
+</td>
+<td style="border-left:2px solid grey">294
+</td>
+<td><a href="/wiki/Loudred" class="mw-redirect" title="Loudred">Loudred</a>
+</td>
+<td style="border-left:2px solid grey">429
+</td>
+<td><a href="/wiki/Mismagius" class="mw-redirect" title="Mismagius">Mismagius</a>
+</td>
+<td style="border-left:2px solid grey">536
+</td>
+<td><a href="/wiki/Palpitoad" class="mw-redirect" title="Palpitoad">Palpitoad</a>
+</td>
+<td style="border-left:2px solid grey">692
+</td>
+<td><a href="/wiki/Clauncher" class="mw-redirect" title="Clauncher">Clauncher</a>
+</td>
+<td style="border-left:2px solid grey">764
+</td>
+<td><a href="/wiki/Comfey" class="mw-redirect" title="Comfey">Comfey</a>
+</td>
+<td style="border-left:2px solid grey">852
+</td>
+<td><a href="/wiki/Clobbopus" class="mw-redirect" title="Clobbopus">Clobbopus</a>
+</td>
+<td style="border-left:2px solid grey">948
+</td>
+<td><a href="/wiki/Toedscool" class="mw-redirect" title="Toedscool">Toedscool</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">44
+</td>
+<td><a href="/wiki/Gloom_(Pok%C3%A9mon)" class="mw-redirect" title="Gloom (Pokémon)">Gloom</a>
+</td>
+<td style="border-left:2px solid grey">195
+</td>
+<td><a href="/wiki/Quagsire" class="mw-redirect" title="Quagsire">Quagsire</a>
+</td>
+<td style="border-left:2px solid grey">295
+</td>
+<td><a href="/wiki/Exploud" class="mw-redirect" title="Exploud">Exploud</a>
+</td>
+<td style="border-left:2px solid grey">430
+</td>
+<td><a href="/wiki/Honchkrow" class="mw-redirect" title="Honchkrow">Honchkrow</a>
+</td>
+<td style="border-left:2px solid grey">537
+</td>
+<td><a href="/wiki/Seismitoad" class="mw-redirect" title="Seismitoad">Seismitoad</a>
+</td>
+<td style="border-left:2px solid grey">693
+</td>
+<td><a href="/wiki/Clawitzer" class="mw-redirect" title="Clawitzer">Clawitzer</a>
+</td>
+<td style="border-left:2px solid grey">765
+</td>
+<td><a href="/wiki/Oranguru" class="mw-redirect" title="Oranguru">Oranguru</a>
+</td>
+<td style="border-left:2px solid grey">853
+</td>
+<td><a href="/wiki/Grapploct" class="mw-redirect" title="Grapploct">Grapploct</a>
+</td>
+<td style="border-left:2px solid grey">949
+</td>
+<td><a href="/wiki/Toedscruel" class="mw-redirect" title="Toedscruel">Toedscruel</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">45
+</td>
+<td><a href="/wiki/Vileplume" class="mw-redirect" title="Vileplume">Vileplume</a>
+</td>
+<td style="border-left:2px solid grey">196
+</td>
+<td><a href="/wiki/Espeon" class="mw-redirect" title="Espeon">Espeon</a>
+</td>
+<td style="border-left:2px solid grey">296
+</td>
+<td><a href="/wiki/Makuhita" class="mw-redirect" title="Makuhita">Makuhita</a>
+</td>
+<td style="border-left:2px solid grey">431
+</td>
+<td><a href="/wiki/Glameow" class="mw-redirect" title="Glameow">Glameow</a>
+</td>
+<td style="border-left:2px solid grey">538
+</td>
+<td><a href="/wiki/Throh" class="mw-redirect" title="Throh">Throh</a>
+</td>
+<td style="border-left:2px solid grey">694
+</td>
+<td><a href="/wiki/Helioptile" class="mw-redirect" title="Helioptile">Helioptile</a>
+</td>
+<td style="border-left:2px solid grey">766
+</td>
+<td><a href="/wiki/Passimian" class="mw-redirect" title="Passimian">Passimian</a>
+</td>
+<td style="border-left:2px solid grey">854
+</td>
+<td><a href="/wiki/Sinistea" class="mw-redirect" title="Sinistea">Sinistea</a>
+</td>
+<td style="border-left:2px solid grey">950
+</td>
+<td><a href="/wiki/Klawf" class="mw-redirect" title="Klawf">Klawf</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">46
+</td>
+<td><a href="/wiki/Paras_(Pok%C3%A9mon)" class="mw-redirect" title="Paras (Pokémon)">Paras</a>
+</td>
+<td style="border-left:2px solid grey">197
+</td>
+<td><a href="/wiki/Umbreon" class="mw-redirect" title="Umbreon">Umbreon</a>
+</td>
+<td style="border-left:2px solid grey">297
+</td>
+<td><a href="/wiki/Hariyama" class="mw-redirect" title="Hariyama">Hariyama</a>
+</td>
+<td style="border-left:2px solid grey">432
+</td>
+<td><a href="/wiki/Purugly" class="mw-redirect" title="Purugly">Purugly</a>
+</td>
+<td style="border-left:2px solid grey">539
+</td>
+<td><a href="/wiki/Sawk" class="mw-redirect" title="Sawk">Sawk</a>
+</td>
+<td style="border-left:2px solid grey">695
+</td>
+<td><a href="/wiki/Heliolisk" class="mw-redirect" title="Heliolisk">Heliolisk</a>
+</td>
+<td style="border-left:2px solid grey">767
+</td>
+<td><a href="/wiki/Wimpod" class="mw-redirect" title="Wimpod">Wimpod</a>
+</td>
+<td style="border-left:2px solid grey">855
+</td>
+<td><a href="/wiki/Polteageist" class="mw-redirect" title="Polteageist">Polteageist</a>
+</td>
+<td style="border-left:2px solid grey">951
+</td>
+<td><a href="/wiki/Capsakid" class="mw-redirect" title="Capsakid">Capsakid</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">47
+</td>
+<td><a href="/wiki/Parasect" title="Parasect">Parasect</a>
+</td>
+<td style="border-left:2px solid grey">198
+</td>
+<td><a href="/wiki/Murkrow" class="mw-redirect" title="Murkrow">Murkrow</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">298
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Azurill" class="mw-redirect" title="Azurill">Azurill</a><sup>B</sup>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">433
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Chingling" class="mw-redirect" title="Chingling">Chingling</a><sup>B</sup><sup id="cite_ref-LABaby_54-4" class="reference"><a href="#cite_note-LABaby-54"><span class="cite-bracket">[</span>g<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">540
+</td>
+<td><a href="/wiki/Sewaddle" class="mw-redirect" title="Sewaddle">Sewaddle</a>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">696
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Tyrunt" class="mw-redirect" title="Tyrunt">Tyrunt</a><sup>F</sup><sup id="cite_ref-LAfossil_55-4" class="reference"><a href="#cite_note-LAfossil-55"><span class="cite-bracket">[</span>h<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">768
+</td>
+<td><a href="/wiki/Golisopod" class="mw-redirect" title="Golisopod">Golisopod</a>
+</td>
+<td style="border-left:2px solid grey">856
+</td>
+<td><a href="/wiki/Hatenna" class="mw-redirect" title="Hatenna">Hatenna</a>
+</td>
+<td style="border-left:2px solid grey">952
+</td>
+<td><a href="/wiki/Scovillain" class="mw-redirect" title="Scovillain">Scovillain</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">48
+</td>
+<td><a href="/wiki/Venonat" class="mw-redirect" title="Venonat">Venonat</a>
+</td>
+<td style="border-left:2px solid grey">199
+</td>
+<td><a href="/wiki/Slowking" class="mw-redirect" title="Slowking">Slowking</a>
+</td>
+<td style="border-left:2px solid grey">299
+</td>
+<td><a href="/wiki/Nosepass" class="mw-redirect" title="Nosepass">Nosepass</a>
+</td>
+<td style="border-left:2px solid grey">434
+</td>
+<td><a href="/wiki/Stunky" class="mw-redirect" title="Stunky">Stunky</a>
+</td>
+<td style="border-left:2px solid grey">541
+</td>
+<td><a href="/wiki/Swadloon" class="mw-redirect" title="Swadloon">Swadloon</a>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">697
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Tyrantrum" class="mw-redirect" title="Tyrantrum">Tyrantrum</a><sup>F</sup><sup id="cite_ref-LAfossil_55-5" class="reference"><a href="#cite_note-LAfossil-55"><span class="cite-bracket">[</span>h<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">769
+</td>
+<td><a href="/wiki/Sandygast" class="mw-redirect" title="Sandygast">Sandygast</a>
+</td>
+<td style="border-left:2px solid grey">857
+</td>
+<td><a href="/wiki/Hattrem" class="mw-redirect" title="Hattrem">Hattrem</a>
+</td>
+<td style="border-left:2px solid grey">953
+</td>
+<td><a href="/wiki/Rellor" class="mw-redirect" title="Rellor">Rellor</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">49
+</td>
+<td><a href="/wiki/Venomoth" class="mw-redirect" title="Venomoth">Venomoth</a>
+</td>
+<td style="border-left:2px solid grey">200
+</td>
+<td><a href="/wiki/Misdreavus" class="mw-redirect" title="Misdreavus">Misdreavus</a>
+</td>
+<td style="border-left:2px solid grey">300
+</td>
+<td><a href="/wiki/Skitty" class="mw-redirect" title="Skitty">Skitty</a>
+</td>
+<td style="border-left:2px solid grey">435
+</td>
+<td><a href="/wiki/Skuntank" class="mw-redirect" title="Skuntank">Skuntank</a>
+</td>
+<td style="border-left:2px solid grey">542
+</td>
+<td><a href="/wiki/Leavanny" class="mw-redirect" title="Leavanny">Leavanny</a>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">698
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Amaura_(Pok%C3%A9mon)" class="mw-redirect" title="Amaura (Pokémon)">Amaura</a><sup>F</sup><sup id="cite_ref-LAfossil_55-6" class="reference"><a href="#cite_note-LAfossil-55"><span class="cite-bracket">[</span>h<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">770
+</td>
+<td><a href="/wiki/Palossand" class="mw-redirect" title="Palossand">Palossand</a>
+</td>
+<td style="border-left:2px solid grey">858
+</td>
+<td><a href="/wiki/Hatterene" class="mw-redirect" title="Hatterene">Hatterene</a>
+</td>
+<td style="border-left:2px solid grey">954
+</td>
+<td><a href="/wiki/Rabsca" class="mw-redirect" title="Rabsca">Rabsca</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">50
+</td>
+<td><a href="/wiki/Diglett" class="mw-redirect" title="Diglett">Diglett</a>
+</td>
+<td style="border-left:2px solid grey">201
+</td>
+<td><a href="/wiki/Unown" title="Unown">Unown</a>
+</td>
+<td style="border-left:2px solid grey">301
+</td>
+<td><a href="/wiki/Delcatty" class="mw-redirect" title="Delcatty">Delcatty</a>
+</td>
+<td style="border-left:2px solid grey">436
+</td>
+<td><a href="/wiki/Bronzor" class="mw-redirect" title="Bronzor">Bronzor</a>
+</td>
+<td style="border-left:2px solid grey">543
+</td>
+<td><a href="/wiki/Venipede" class="mw-redirect" title="Venipede">Venipede</a>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">699
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Aurorus" class="mw-redirect" title="Aurorus">Aurorus</a><sup>F</sup><sup id="cite_ref-LAfossil_55-7" class="reference"><a href="#cite_note-LAfossil-55"><span class="cite-bracket">[</span>h<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">771
+</td>
+<td><a href="/wiki/Pyukumuku" class="mw-redirect" title="Pyukumuku">Pyukumuku</a>
+</td>
+<td style="border-left:2px solid grey">859
+</td>
+<td><a href="/wiki/Impidimp" class="mw-redirect" title="Impidimp">Impidimp</a>
+</td>
+<td style="border-left:2px solid grey">955
+</td>
+<td><a href="/wiki/Flittle" class="mw-redirect" title="Flittle">Flittle</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">51
+</td>
+<td><a href="/wiki/Dugtrio" class="mw-redirect" title="Dugtrio">Dugtrio</a>
+</td>
+<td style="border-left:2px solid grey">202
+</td>
+<td><a href="/wiki/Wobbuffet" title="Wobbuffet">Wobbuffet</a>
+</td>
+<td style="border-left:2px solid grey">302
+</td>
+<td><a href="/wiki/Sableye" class="mw-redirect" title="Sableye">Sableye</a>
+</td>
+<td style="border-left:2px solid grey">437
+</td>
+<td><a href="/wiki/Bronzong" class="mw-redirect" title="Bronzong">Bronzong</a>
+</td>
+<td style="border-left:2px solid grey">544
+</td>
+<td><a href="/wiki/Whirlipede" class="mw-redirect" title="Whirlipede">Whirlipede</a>
+</td>
+<td style="border-left:2px solid grey">700
+</td>
+<td><a href="/wiki/Sylveon" class="mw-redirect" title="Sylveon">Sylveon</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">772
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Type:_Null" class="mw-redirect" title="Type: Null">Type: Null</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">860
+</td>
+<td><a href="/wiki/Morgrem" class="mw-redirect" title="Morgrem">Morgrem</a>
+</td>
+<td style="border-left:2px solid grey">956
+</td>
+<td><a href="/wiki/Espathra" class="mw-redirect" title="Espathra">Espathra</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">52
+</td>
+<td><a href="/wiki/Meowth" title="Meowth">Meowth</a>
+</td>
+<td style="border-left:2px solid grey">203
+</td>
+<td><a href="/wiki/Girafarig" class="mw-redirect" title="Girafarig">Girafarig</a>
+</td>
+<td style="border-left:2px solid grey">303
+</td>
+<td><a href="/wiki/Mawile" title="Mawile">Mawile</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">438
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Bonsly" class="mw-redirect" title="Bonsly">Bonsly</a><sup>B</sup><sup id="cite_ref-LABaby_54-5" class="reference"><a href="#cite_note-LABaby-54"><span class="cite-bracket">[</span>g<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">545
+</td>
+<td><a href="/wiki/Scolipede" class="mw-redirect" title="Scolipede">Scolipede</a>
+</td>
+<td style="border-left:2px solid grey">701
+</td>
+<td><a href="/wiki/Hawlucha" class="mw-redirect" title="Hawlucha">Hawlucha</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">773
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Silvally" class="mw-redirect" title="Silvally">Silvally</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">861
+</td>
+<td><a href="/wiki/Grimmsnarl" class="mw-redirect" title="Grimmsnarl">Grimmsnarl</a>
+</td>
+<td style="border-left:2px solid grey">957
+</td>
+<td><a href="/wiki/Tinkatink" class="mw-redirect" title="Tinkatink">Tinkatink</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">53
+</td>
+<td><a href="/wiki/Persian_(Pok%C3%A9mon)" class="mw-redirect" title="Persian (Pokémon)">Persian</a>
+</td>
+<td style="border-left:2px solid grey">204
+</td>
+<td><a href="/wiki/Pineco" class="mw-redirect" title="Pineco">Pineco</a>
+</td>
+<td style="border-left:2px solid grey">304
+</td>
+<td><a href="/wiki/Aron_(Pok%C3%A9mon)" class="mw-redirect" title="Aron (Pokémon)">Aron</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">439
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Mime_Jr." class="mw-redirect" title="Mime Jr.">Mime Jr.</a><sup>B</sup><sup id="cite_ref-LABaby_54-6" class="reference"><a href="#cite_note-LABaby-54"><span class="cite-bracket">[</span>g<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">546
+</td>
+<td><a href="/wiki/Cottonee" class="mw-redirect" title="Cottonee">Cottonee</a>
+</td>
+<td style="border-left:2px solid grey">702
+</td>
+<td><a href="/wiki/Dedenne" class="mw-redirect" title="Dedenne">Dedenne</a>
+</td>
+<td style="border-left:2px solid grey">774
+</td>
+<td><a href="/wiki/Minior" class="mw-redirect" title="Minior">Minior</a>
+</td>
+<td style="border-left:2px solid grey">862
+</td>
+<td><a href="/wiki/Obstagoon" class="mw-redirect" title="Obstagoon">Obstagoon</a>
+</td>
+<td style="border-left:2px solid grey">958
+</td>
+<td><a href="/wiki/Tinkatuff" class="mw-redirect" title="Tinkatuff">Tinkatuff</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">54
+</td>
+<td><a href="/wiki/Psyduck" title="Psyduck">Psyduck</a>
+</td>
+<td style="border-left:2px solid grey">205
+</td>
+<td><a href="/wiki/Forretress" class="mw-redirect" title="Forretress">Forretress</a>
+</td>
+<td style="border-left:2px solid grey">305
+</td>
+<td><a href="/wiki/Lairon" class="mw-redirect" title="Lairon">Lairon</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">440
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Happiny" class="mw-redirect" title="Happiny">Happiny</a><sup>B</sup><sup id="cite_ref-LABaby_54-7" class="reference"><a href="#cite_note-LABaby-54"><span class="cite-bracket">[</span>g<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">547
+</td>
+<td><a href="/wiki/Whimsicott" class="mw-redirect" title="Whimsicott">Whimsicott</a>
+</td>
+<td style="border-left:2px solid grey">703
+</td>
+<td><a href="/wiki/Carbink" class="mw-redirect" title="Carbink">Carbink</a>
+</td>
+<td style="border-left:2px solid grey">775
+</td>
+<td><a href="/wiki/Komala_(Pok%C3%A9mon)" class="mw-redirect" title="Komala (Pokémon)">Komala</a>
+</td>
+<td style="border-left:2px solid grey">863
+</td>
+<td><a href="/wiki/Perrserker" class="mw-redirect" title="Perrserker">Perrserker</a>
+</td>
+<td style="border-left:2px solid grey">959
+</td>
+<td><a href="/wiki/Tinkaton" title="Tinkaton">Tinkaton</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">55
+</td>
+<td><a href="/wiki/Golduck" class="mw-redirect" title="Golduck">Golduck</a>
+</td>
+<td style="border-left:2px solid grey">206
+</td>
+<td><a href="/wiki/Dunsparce" class="mw-redirect" title="Dunsparce">Dunsparce</a>
+</td>
+<td style="border-left:2px solid grey">306
+</td>
+<td><a href="/wiki/Aggron" class="mw-redirect" title="Aggron">Aggron</a>
+</td>
+<td style="border-left:2px solid grey">441
+</td>
+<td><a href="/wiki/Chatot_(Pok%C3%A9mon)" class="mw-redirect" title="Chatot (Pokémon)">Chatot</a>
+</td>
+<td style="border-left:2px solid grey">548
+</td>
+<td><a href="/wiki/Petilil" class="mw-redirect" title="Petilil">Petilil</a>
+</td>
+<td style="border-left:2px solid grey">704
+</td>
+<td><a href="/wiki/Goomy" class="mw-redirect" title="Goomy">Goomy</a>
+</td>
+<td style="border-left:2px solid grey">776
+</td>
+<td><a href="/wiki/Turtonator" class="mw-redirect" title="Turtonator">Turtonator</a>
+</td>
+<td style="border-left:2px solid grey">864
+</td>
+<td><a href="/wiki/Cursola" class="mw-redirect" title="Cursola">Cursola</a>
+</td>
+<td style="border-left:2px solid grey">960
+</td>
+<td><a href="/wiki/Wiglett" class="mw-redirect" title="Wiglett">Wiglett</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">56
+</td>
+<td><a href="/wiki/Mankey" class="mw-redirect" title="Mankey">Mankey</a>
+</td>
+<td style="border-left:2px solid grey">207
+</td>
+<td><a href="/wiki/Gligar" class="mw-redirect" title="Gligar">Gligar</a>
+</td>
+<td style="border-left:2px solid grey">307
+</td>
+<td><a href="/wiki/Meditite" class="mw-redirect" title="Meditite">Meditite</a>
+</td>
+<td style="border-left:2px solid grey">442
+</td>
+<td><a href="/wiki/Spiritomb" class="mw-redirect" title="Spiritomb">Spiritomb</a>
+</td>
+<td style="border-left:2px solid grey">549
+</td>
+<td><a href="/wiki/Lilligant" class="mw-redirect" title="Lilligant">Lilligant</a>
+</td>
+<td style="border-left:2px solid grey">705
+</td>
+<td><a href="/wiki/Sliggoo" class="mw-redirect" title="Sliggoo">Sliggoo</a>
+</td>
+<td style="border-left:2px solid grey">777
+</td>
+<td><a href="/wiki/Togedemaru" class="mw-redirect" title="Togedemaru">Togedemaru</a>
+</td>
+<td style="border-left:2px solid grey">865
+</td>
+<td><a href="/wiki/Sirfetch%27d" class="mw-redirect" title="Sirfetch'd">Sirfetch'd</a>
+</td>
+<td style="border-left:2px solid grey">961
+</td>
+<td><a href="/wiki/Wugtrio" class="mw-redirect" title="Wugtrio">Wugtrio</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">57
+</td>
+<td><a href="/wiki/Primeape" class="mw-redirect" title="Primeape">Primeape</a>
+</td>
+<td style="border-left:2px solid grey">208
+</td>
+<td><a href="/wiki/Steelix" class="mw-redirect" title="Steelix">Steelix</a>
+</td>
+<td style="border-left:2px solid grey">308
+</td>
+<td><a href="/wiki/Medicham" class="mw-redirect" title="Medicham">Medicham</a>
+</td>
+<td style="border-left:2px solid grey">443
+</td>
+<td><a href="/wiki/Gible" class="mw-redirect" title="Gible">Gible</a>
+</td>
+<td style="border-left:2px solid grey">550
+</td>
+<td><a href="/wiki/Basculin" class="mw-redirect" title="Basculin">Basculin</a>
+</td>
+<td style="border-left:2px solid grey">706
+</td>
+<td><a href="/wiki/Goodra" class="mw-redirect" title="Goodra">Goodra</a>
+</td>
+<td style="border-left:2px solid grey">778
+</td>
+<td><a href="/wiki/Mimikyu" title="Mimikyu">Mimikyu</a>
+</td>
+<td style="border-left:2px solid grey">866
+</td>
+<td><a href="/wiki/Mr._Rime" class="mw-redirect" title="Mr. Rime">Mr. Rime</a>
+</td>
+<td style="border-left:2px solid grey">962
+</td>
+<td><a href="/wiki/Bombirdier" class="mw-redirect" title="Bombirdier">Bombirdier</a>
+</td></tr>
+<tr>
+<td>58
+</td>
+<td><a href="/wiki/Growlithe" class="mw-redirect" title="Growlithe">Growlithe</a>
+</td>
+<td style="border-left:2px solid grey">209
+</td>
+<td><a href="/wiki/Snubbull" class="mw-redirect" title="Snubbull">Snubbull</a>
+</td>
+<td style="border-left:2px solid grey">309
+</td>
+<td><a href="/wiki/Electrike" class="mw-redirect" title="Electrike">Electrike</a>
+</td>
+<td style="border-left:2px solid grey">444
+</td>
+<td><a href="/wiki/Gabite" class="mw-redirect" title="Gabite">Gabite</a>
+</td>
+<td style="border-left:2px solid grey">551
+</td>
+<td><a href="/wiki/Sandile_(Pok%C3%A9mon)" class="mw-redirect" title="Sandile (Pokémon)">Sandile</a>
+</td>
+<td style="border-left:2px solid grey">707
+</td>
+<td><a href="/wiki/Klefki" title="Klefki">Klefki</a>
+</td>
+<td style="border-left:2px solid grey">779
+</td>
+<td><a href="/wiki/Bruxish" class="mw-redirect" title="Bruxish">Bruxish</a>
+</td>
+<td style="border-left:2px solid grey">867
+</td>
+<td><a href="/wiki/Runerigus" class="mw-redirect" title="Runerigus">Runerigus</a>
+</td>
+<td style="border-left:2px solid grey">963
+</td>
+<td><a href="/wiki/Finizen" class="mw-redirect" title="Finizen">Finizen</a>
+</td></tr>
+<tr>
+<td>59
+</td>
+<td><a href="/wiki/Arcanine" class="mw-redirect" title="Arcanine">Arcanine</a>
+</td>
+<td style="border-left:2px solid grey">210
+</td>
+<td><a href="/wiki/Granbull" class="mw-redirect" title="Granbull">Granbull</a>
+</td>
+<td style="border-left:2px solid grey">310
+</td>
+<td><a href="/wiki/Manectric" class="mw-redirect" title="Manectric">Manectric</a>
+</td>
+<td style="border-left:2px solid grey">445
+</td>
+<td><a href="/wiki/Garchomp" title="Garchomp">Garchomp</a>
+</td>
+<td style="border-left:2px solid grey">552
+</td>
+<td><a href="/wiki/Krokorok" class="mw-redirect" title="Krokorok">Krokorok</a>
+</td>
+<td style="border-left:2px solid grey">708
+</td>
+<td><a href="/wiki/Phantump" class="mw-redirect" title="Phantump">Phantump</a>
+</td>
+<td style="border-left:2px solid grey">780
+</td>
+<td><a href="/wiki/Drampa" class="mw-redirect" title="Drampa">Drampa</a>
+</td>
+<td style="border-left:2px solid grey">868
+</td>
+<td><a href="/wiki/Milcery" class="mw-redirect" title="Milcery">Milcery</a>
+</td>
+<td style="border-left:2px solid grey">964
+</td>
+<td><a href="/wiki/Palafin" class="mw-redirect" title="Palafin">Palafin</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">60
+</td>
+<td><a href="/wiki/Poliwag" class="mw-redirect" title="Poliwag">Poliwag</a>
+</td>
+<td style="border-left:2px solid grey">211
+</td>
+<td><a href="/wiki/Qwilfish" class="mw-redirect" title="Qwilfish">Qwilfish</a>
+</td>
+<td style="border-left:2px solid grey">311
+</td>
+<td><a href="/wiki/Plusle" class="mw-redirect" title="Plusle">Plusle</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">446
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Munchlax" class="mw-redirect" title="Munchlax">Munchlax</a><sup>B</sup><sup id="cite_ref-LABaby_54-8" class="reference"><a href="#cite_note-LABaby-54"><span class="cite-bracket">[</span>g<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">553
+</td>
+<td><a href="/wiki/Krookodile" class="mw-redirect" title="Krookodile">Krookodile</a>
+</td>
+<td style="border-left:2px solid grey">709
+</td>
+<td><a href="/wiki/Trevenant" class="mw-redirect" title="Trevenant">Trevenant</a>
+</td>
+<td style="border-left:2px solid grey">781
+</td>
+<td><a href="/wiki/Dhelmise" class="mw-redirect" title="Dhelmise">Dhelmise</a>
+</td>
+<td style="border-left:2px solid grey">869
+</td>
+<td><a href="/wiki/Alcremie" class="mw-redirect" title="Alcremie">Alcremie</a>
+</td>
+<td style="border-left:2px solid grey">965
+</td>
+<td><a href="/wiki/Varoom_(Pok%C3%A9mon)" class="mw-redirect" title="Varoom (Pokémon)">Varoom</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">61
+</td>
+<td><a href="/wiki/Poliwhirl" class="mw-redirect" title="Poliwhirl">Poliwhirl</a>
+</td>
+<td style="border-left:2px solid grey">212
+</td>
+<td><a href="/wiki/Scizor" class="mw-redirect" title="Scizor">Scizor</a>
+</td>
+<td style="border-left:2px solid grey">312
+</td>
+<td><a href="/wiki/Minun" class="mw-redirect" title="Minun">Minun</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">447
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Riolu" class="mw-redirect" title="Riolu">Riolu</a><sup>B</sup><sup id="cite_ref-LABaby_54-9" class="reference"><a href="#cite_note-LABaby-54"><span class="cite-bracket">[</span>g<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">554
+</td>
+<td><a href="/wiki/Darumaka" class="mw-redirect" title="Darumaka">Darumaka</a>
+</td>
+<td style="border-left:2px solid grey">710
+</td>
+<td><a href="/wiki/Pumpkaboo" class="mw-redirect" title="Pumpkaboo">Pumpkaboo</a>
+</td>
+<td style="border-left:2px solid grey">782
+</td>
+<td><a href="/wiki/Jangmo-o" class="mw-redirect" title="Jangmo-o">Jangmo-o</a>
+</td>
+<td style="border-left:2px solid grey">870
+</td>
+<td><a href="/wiki/Falinks" class="mw-redirect" title="Falinks">Falinks</a>
+</td>
+<td style="border-left:2px solid grey">966
+</td>
+<td><a href="/wiki/Revavroom" class="mw-redirect" title="Revavroom">Revavroom</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">62
+</td>
+<td><a href="/wiki/Poliwrath" class="mw-redirect" title="Poliwrath">Poliwrath</a>
+</td>
+<td style="border-left:2px solid grey">213
+</td>
+<td><a href="/wiki/Shuckle_(Pok%C3%A9mon)" class="mw-redirect" title="Shuckle (Pokémon)">Shuckle</a>
+</td>
+<td style="border-left:2px solid grey">313
+</td>
+<td><a href="/wiki/Volbeat_(Pok%C3%A9mon)" class="mw-redirect" title="Volbeat (Pokémon)">Volbeat</a>
+</td>
+<td style="border-left:2px solid grey">448
+</td>
+<td><a href="/wiki/Lucario" title="Lucario">Lucario</a>
+</td>
+<td style="border-left:2px solid grey">555
+</td>
+<td><a href="/wiki/Darmanitan" class="mw-redirect" title="Darmanitan">Darmanitan</a>
+</td>
+<td style="border-left:2px solid grey">711
+</td>
+<td><a href="/wiki/Gourgeist" class="mw-redirect" title="Gourgeist">Gourgeist</a>
+</td>
+<td style="border-left:2px solid grey">783
+</td>
+<td><a href="/wiki/Hakamo-o" class="mw-redirect" title="Hakamo-o">Hakamo-o</a>
+</td>
+<td style="border-left:2px solid grey">871
+</td>
+<td><a href="/wiki/Pincurchin" class="mw-redirect" title="Pincurchin">Pincurchin</a>
+</td>
+<td style="border-left:2px solid grey">967
+</td>
+<td><a href="/wiki/Cyclizar" class="mw-redirect" title="Cyclizar">Cyclizar</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">63
+</td>
+<td><a href="/wiki/Abra_(Pok%C3%A9mon)" class="mw-redirect" title="Abra (Pokémon)">Abra</a>
+</td>
+<td style="border-left:2px solid grey">214
+</td>
+<td><a href="/wiki/Heracross" title="Heracross">Heracross</a>
+</td>
+<td style="border-left:2px solid grey">314
+</td>
+<td><a href="/wiki/Illumise" class="mw-redirect" title="Illumise">Illumise</a>
+</td>
+<td style="border-left:2px solid grey">449
+</td>
+<td><a href="/wiki/Hippopotas" class="mw-redirect" title="Hippopotas">Hippopotas</a>
+</td>
+<td style="border-left:2px solid grey">556
+</td>
+<td><a href="/wiki/Maractus" class="mw-redirect" title="Maractus">Maractus</a>
+</td>
+<td style="border-left:2px solid grey">712
+</td>
+<td><a href="/wiki/Bergmite" class="mw-redirect" title="Bergmite">Bergmite</a>
+</td>
+<td style="border-left:2px solid grey">784
+</td>
+<td><a href="/wiki/Kommo-o" class="mw-redirect" title="Kommo-o">Kommo-o</a>
+</td>
+<td style="border-left:2px solid grey">872
+</td>
+<td><a href="/wiki/Snom_(Pok%C3%A9mon)" class="mw-redirect" title="Snom (Pokémon)">Snom</a>
+</td>
+<td style="border-left:2px solid grey">968
+</td>
+<td><a href="/wiki/Orthworm" class="mw-redirect" title="Orthworm">Orthworm</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">64
+</td>
+<td><a href="/wiki/Kadabra" class="mw-redirect" title="Kadabra">Kadabra</a>
+</td>
+<td style="border-left:2px solid grey">215
+</td>
+<td><a href="/wiki/Sneasel" class="mw-redirect" title="Sneasel">Sneasel</a>
+</td>
+<td style="border-left:2px solid grey">315
+</td>
+<td><a href="/wiki/Roselia_(Pok%C3%A9mon)" class="mw-redirect" title="Roselia (Pokémon)">Roselia</a>
+</td>
+<td style="border-left:2px solid grey">450
+</td>
+<td><a href="/wiki/Hippowdon" class="mw-redirect" title="Hippowdon">Hippowdon</a>
+</td>
+<td style="border-left:2px solid grey">557
+</td>
+<td><a href="/wiki/Dwebble" class="mw-redirect" title="Dwebble">Dwebble</a>
+</td>
+<td style="border-left:2px solid grey">713
+</td>
+<td><a href="/wiki/Avalugg" class="mw-redirect" title="Avalugg">Avalugg</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">785
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Tapu_Koko" class="mw-redirect" title="Tapu Koko">Tapu Koko</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">873
+</td>
+<td><a href="/wiki/Frosmoth" class="mw-redirect" title="Frosmoth">Frosmoth</a>
+</td>
+<td style="border-left:2px solid grey">969
+</td>
+<td><a href="/wiki/Glimmet" class="mw-redirect" title="Glimmet">Glimmet</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">65
+</td>
+<td><a href="/wiki/Alakazam_(Pok%C3%A9mon)" class="mw-redirect" title="Alakazam (Pokémon)">Alakazam</a>
+</td>
+<td style="border-left:2px solid grey">216
+</td>
+<td><a href="/wiki/Teddiursa" class="mw-redirect" title="Teddiursa">Teddiursa</a>
+</td>
+<td style="border-left:2px solid grey">316
+</td>
+<td><a href="/wiki/Gulpin" class="mw-redirect" title="Gulpin">Gulpin</a>
+</td>
+<td style="border-left:2px solid grey">451
+</td>
+<td><a href="/wiki/Skorupi" class="mw-redirect" title="Skorupi">Skorupi</a>
+</td>
+<td style="border-left:2px solid grey">558
+</td>
+<td><a href="/wiki/Crustle" class="mw-redirect" title="Crustle">Crustle</a>
+</td>
+<td style="border-left:2px solid grey">714
+</td>
+<td><a href="/wiki/Noibat" class="mw-redirect" title="Noibat">Noibat</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">786
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Tapu_Lele" class="mw-redirect" title="Tapu Lele">Tapu Lele</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">874
+</td>
+<td><a href="/wiki/Stonjourner" class="mw-redirect" title="Stonjourner">Stonjourner</a>
+</td>
+<td style="border-left:2px solid grey">970
+</td>
+<td><a href="/wiki/Glimmora" class="mw-redirect" title="Glimmora">Glimmora</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">66
+</td>
+<td><a href="/wiki/Machop" class="mw-redirect" title="Machop">Machop</a>
+</td>
+<td style="border-left:2px solid grey">217
+</td>
+<td><a href="/wiki/Ursaring" class="mw-redirect" title="Ursaring">Ursaring</a>
+</td>
+<td style="border-left:2px solid grey">317
+</td>
+<td><a href="/wiki/Swalot" class="mw-redirect" title="Swalot">Swalot</a>
+</td>
+<td style="border-left:2px solid grey">452
+</td>
+<td><a href="/wiki/Drapion" class="mw-redirect" title="Drapion">Drapion</a>
+</td>
+<td style="border-left:2px solid grey">559
+</td>
+<td><a href="/wiki/Scraggy" class="mw-redirect" title="Scraggy">Scraggy</a>
+</td>
+<td style="border-left:2px solid grey">715
+</td>
+<td><a href="/wiki/Noivern" class="mw-redirect" title="Noivern">Noivern</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">787
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Tapu_Bulu" class="mw-redirect" title="Tapu Bulu">Tapu Bulu</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">875
+</td>
+<td><a href="/wiki/Eiscue" class="mw-redirect" title="Eiscue">Eiscue</a>
+</td>
+<td style="border-left:2px solid grey">971
+</td>
+<td><a href="/wiki/Greavard" class="mw-redirect" title="Greavard">Greavard</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">67
+</td>
+<td><a href="/wiki/Machoke" class="mw-redirect" title="Machoke">Machoke</a>
+</td>
+<td style="border-left:2px solid grey">218
+</td>
+<td><a href="/wiki/Slugma" class="mw-redirect" title="Slugma">Slugma</a>
+</td>
+<td style="border-left:2px solid grey">318
+</td>
+<td><a href="/wiki/Carvanha" class="mw-redirect" title="Carvanha">Carvanha</a>
+</td>
+<td style="border-left:2px solid grey">453
+</td>
+<td><a href="/wiki/Croagunk" class="mw-redirect" title="Croagunk">Croagunk</a>
+</td>
+<td style="border-left:2px solid grey">560
+</td>
+<td><a href="/wiki/Scrafty" class="mw-redirect" title="Scrafty">Scrafty</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">716
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Xerneas" class="mw-redirect" title="Xerneas">Xerneas</a><sup>L</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">788
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Tapu_Fini" class="mw-redirect" title="Tapu Fini">Tapu Fini</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">876
+</td>
+<td><a href="/wiki/Indeedee" class="mw-redirect" title="Indeedee">Indeedee</a>
+</td>
+<td style="border-left:2px solid grey">972
+</td>
+<td><a href="/wiki/Houndstone_(Pok%C3%A9mon)" class="mw-redirect" title="Houndstone (Pokémon)">Houndstone</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">68
+</td>
+<td><a href="/wiki/Machamp" class="mw-redirect" title="Machamp">Machamp</a>
+</td>
+<td style="border-left:2px solid grey">219
+</td>
+<td><a href="/wiki/Magcargo" class="mw-redirect" title="Magcargo">Magcargo</a>
+</td>
+<td style="border-left:2px solid grey">319
+</td>
+<td><a href="/wiki/Sharpedo" class="mw-redirect" title="Sharpedo">Sharpedo</a>
+</td>
+<td style="border-left:2px solid grey">454
+</td>
+<td><a href="/wiki/Toxicroak" class="mw-redirect" title="Toxicroak">Toxicroak</a>
+</td>
+<td style="border-left:2px solid grey">561
+</td>
+<td><a href="/wiki/Sigilyph" class="mw-redirect" title="Sigilyph">Sigilyph</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">717
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Yveltal" class="mw-redirect" title="Yveltal">Yveltal</a><sup>L</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">789
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Cosmog" class="mw-redirect" title="Cosmog">Cosmog</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">877
+</td>
+<td><a href="/wiki/Morpeko" class="mw-redirect" title="Morpeko">Morpeko</a>
+</td>
+<td style="border-left:2px solid grey">973
+</td>
+<td><a href="/wiki/Flamigo" class="mw-redirect" title="Flamigo">Flamigo</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">69
+</td>
+<td><a href="/wiki/Bellsprout" class="mw-redirect" title="Bellsprout">Bellsprout</a>
+</td>
+<td style="border-left:2px solid grey">220
+</td>
+<td><a href="/wiki/Swinub" class="mw-redirect" title="Swinub">Swinub</a>
+</td>
+<td style="border-left:2px solid grey">320
+</td>
+<td><a href="/wiki/Wailmer" class="mw-redirect" title="Wailmer">Wailmer</a>
+</td>
+<td style="border-left:2px solid grey">455
+</td>
+<td><a href="/wiki/Carnivine" class="mw-redirect" title="Carnivine">Carnivine</a>
+</td>
+<td style="border-left:2px solid grey">562
+</td>
+<td><a href="/wiki/Yamask" class="mw-redirect" title="Yamask">Yamask</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">718
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Zygarde" class="mw-redirect" title="Zygarde">Zygarde</a><sup>L</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">790
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Cosmoem" class="mw-redirect" title="Cosmoem">Cosmoem</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">878
+</td>
+<td><a href="/wiki/Cufant" class="mw-redirect" title="Cufant">Cufant</a>
+</td>
+<td style="border-left:2px solid grey">974
+</td>
+<td><a href="/wiki/Cetoddle" class="mw-redirect" title="Cetoddle">Cetoddle</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">70
+</td>
+<td><a href="/wiki/Weepinbell" class="mw-redirect" title="Weepinbell">Weepinbell</a>
+</td>
+<td style="border-left:2px solid grey">221
+</td>
+<td><a href="/wiki/Piloswine" class="mw-redirect" title="Piloswine">Piloswine</a>
+</td>
+<td style="border-left:2px solid grey">321
+</td>
+<td><a href="/wiki/Wailord" class="mw-redirect" title="Wailord">Wailord</a>
+</td>
+<td style="border-left:2px solid grey">456
+</td>
+<td><a href="/wiki/Finneon" class="mw-redirect" title="Finneon">Finneon</a>
+</td>
+<td style="border-left:2px solid grey">563
+</td>
+<td><a href="/wiki/Cofagrigus" class="mw-redirect" title="Cofagrigus">Cofagrigus</a>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">719
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Diancie" class="mw-redirect" title="Diancie">Diancie</a><sup>M</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">791
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Solgaleo" class="mw-redirect" title="Solgaleo">Solgaleo</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">879
+</td>
+<td><a href="/wiki/Copperajah" class="mw-redirect" title="Copperajah">Copperajah</a>
+</td>
+<td style="border-left:2px solid grey">975
+</td>
+<td><a href="/wiki/Cetitan" class="mw-redirect" title="Cetitan">Cetitan</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">71
+</td>
+<td><a href="/wiki/Victreebel" class="mw-redirect" title="Victreebel">Victreebel</a>
+</td>
+<td style="border-left:2px solid grey">222
+</td>
+<td><a href="/wiki/Corsola" class="mw-redirect" title="Corsola">Corsola</a>
+</td>
+<td style="border-left:2px solid grey">322
+</td>
+<td><a href="/wiki/Numel" class="mw-redirect" title="Numel">Numel</a>
+</td>
+<td style="border-left:2px solid grey">457
+</td>
+<td><a href="/wiki/Lumineon" class="mw-redirect" title="Lumineon">Lumineon</a>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">564
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Tirtouga" class="mw-redirect" title="Tirtouga">Tirtouga</a><sup>F</sup>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">720
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Hoopa_(Pok%C3%A9mon)" class="mw-redirect" title="Hoopa (Pokémon)">Hoopa</a><sup>M</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">792
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Lunala" class="mw-redirect" title="Lunala">Lunala</a><sup>L</sup>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">880
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Dracozolt" class="mw-redirect" title="Dracozolt">Dracozolt</a><sup>F</sup>
+</td>
+<td style="border-left:2px solid grey">976
+</td>
+<td><a href="/wiki/Veluza" class="mw-redirect" title="Veluza">Veluza</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">72
+</td>
+<td><a href="/wiki/Tentacool" class="mw-redirect" title="Tentacool">Tentacool</a>
+</td>
+<td style="border-left:2px solid grey">223
+</td>
+<td><a href="/wiki/Remoraid" class="mw-redirect" title="Remoraid">Remoraid</a>
+</td>
+<td style="border-left:2px solid grey">323
+</td>
+<td><a href="/wiki/Camerupt" class="mw-redirect" title="Camerupt">Camerupt</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">458
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Mantyke" class="mw-redirect" title="Mantyke">Mantyke</a><sup>B</sup><sup id="cite_ref-LABaby_54-10" class="reference"><a href="#cite_note-LABaby-54"><span class="cite-bracket">[</span>g<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">565
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Carracosta" class="mw-redirect" title="Carracosta">Carracosta</a><sup>F</sup>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">721
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Volcanion" class="mw-redirect" title="Volcanion">Volcanion</a><sup>M</sup>
+</td>
+<td style="background-color: #B7A3C3; border-left:2px solid grey">793
+</td>
+<td style="background-color: #B7A3C3"><a href="/wiki/Nihilego" class="mw-redirect" title="Nihilego">Nihilego</a><sup>UB</sup>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">881
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Arctozolt" class="mw-redirect" title="Arctozolt">Arctozolt</a><sup>F</sup>
+</td>
+<td style="border-left:2px solid grey">977
+</td>
+<td><a href="/wiki/Dondozo" class="mw-redirect" title="Dondozo">Dondozo</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">73
+</td>
+<td><a href="/wiki/Tentacruel" class="mw-redirect" title="Tentacruel">Tentacruel</a>
+</td>
+<td style="border-left:2px solid grey">224
+</td>
+<td><a href="/wiki/Octillery" class="mw-redirect" title="Octillery">Octillery</a>
+</td>
+<td style="border-left:2px solid grey">324
+</td>
+<td><a href="/wiki/Torkoal" class="mw-redirect" title="Torkoal">Torkoal</a>
+</td>
+<td style="border-left:2px solid grey">459
+</td>
+<td><a href="/wiki/Snover_(Pok%C3%A9mon)" class="mw-redirect" title="Snover (Pokémon)">Snover</a>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">566
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Archen" class="mw-redirect" title="Archen">Archen</a><sup>F</sup>
+</td>
+<td colspan="2" rowspan="84" style="border-left:2px solid grey" class="table-na">
+</td>
+<td style="background-color: #B7A3C3; border-left:2px solid grey">794
+</td>
+<td style="background-color: #B7A3C3"><a href="/wiki/Buzzwole" class="mw-redirect" title="Buzzwole">Buzzwole</a><sup>UB</sup>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">882
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Dracovish" class="mw-redirect" title="Dracovish">Dracovish</a><sup>F</sup>
+</td>
+<td style="border-left:2px solid grey">978
+</td>
+<td><a href="/wiki/Tatsugiri" class="mw-redirect" title="Tatsugiri">Tatsugiri</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">74
+</td>
+<td><a href="/wiki/Geodude" class="mw-redirect" title="Geodude">Geodude</a>
+</td>
+<td style="border-left:2px solid grey">225
+</td>
+<td><a href="/wiki/Delibird" title="Delibird">Delibird</a>
+</td>
+<td style="border-left:2px solid grey">325
+</td>
+<td><a href="/wiki/Spoink" class="mw-redirect" title="Spoink">Spoink</a>
+</td>
+<td style="border-left:2px solid grey">460
+</td>
+<td><a href="/wiki/Abomasnow" class="mw-redirect" title="Abomasnow">Abomasnow</a>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">567
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Archeops_(Pok%C3%A9mon)" class="mw-redirect" title="Archeops (Pokémon)">Archeops</a><sup>F</sup>
+</td>
+<td style="background-color: #B7A3C3; border-left:2px solid grey">795
+</td>
+<td style="background-color: #B7A3C3"><a href="/wiki/Pheromosa" class="mw-redirect" title="Pheromosa">Pheromosa</a><sup>UB</sup>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">883
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Arctovish" class="mw-redirect" title="Arctovish">Arctovish</a><sup>F</sup>
+</td>
+<td style="border-left:2px solid grey">979
+</td>
+<td><a href="/wiki/Annihilape" class="mw-redirect" title="Annihilape">Annihilape</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">75
+</td>
+<td><a href="/wiki/Graveler" class="mw-redirect" title="Graveler">Graveler</a>
+</td>
+<td style="border-left:2px solid grey">226
+</td>
+<td><a href="/wiki/Mantine" class="mw-redirect" title="Mantine">Mantine</a>
+</td>
+<td style="border-left:2px solid grey">326
+</td>
+<td><a href="/wiki/Grumpig" class="mw-redirect" title="Grumpig">Grumpig</a>
+</td>
+<td style="border-left:2px solid grey">461
+</td>
+<td><a href="/wiki/Weavile" class="mw-redirect" title="Weavile">Weavile</a>
+</td>
+<td style="border-left:2px solid grey">568
+</td>
+<td><a href="/wiki/Trubbish" class="mw-redirect" title="Trubbish">Trubbish</a>
+</td>
+<td style="background-color: #B7A3C3; border-left:2px solid grey">796
+</td>
+<td style="background-color: #B7A3C3"><a href="/wiki/Xurkitree" class="mw-redirect" title="Xurkitree">Xurkitree</a><sup>UB</sup>
+</td>
+<td style="border-left:2px solid grey">884
+</td>
+<td><a href="/wiki/Duraludon" class="mw-redirect" title="Duraludon">Duraludon</a>
+</td>
+<td style="border-left:2px solid grey">980
+</td>
+<td><a href="/wiki/Clodsire" class="mw-redirect" title="Clodsire">Clodsire</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">76
+</td>
+<td><a href="/wiki/Golem_(Pok%C3%A9mon)" class="mw-redirect" title="Golem (Pokémon)">Golem</a>
+</td>
+<td style="border-left:2px solid grey">227
+</td>
+<td><a href="/wiki/Skarmory" class="mw-redirect" title="Skarmory">Skarmory</a>
+</td>
+<td style="border-left:2px solid grey">327
+</td>
+<td><a href="/wiki/Spinda" class="mw-redirect" title="Spinda">Spinda</a>
+</td>
+<td style="border-left:2px solid grey">462
+</td>
+<td><a href="/wiki/Magnezone" class="mw-redirect" title="Magnezone">Magnezone</a>
+</td>
+<td style="border-left:2px solid grey">569
+</td>
+<td><a href="/wiki/Garbodor" class="mw-redirect" title="Garbodor">Garbodor</a>
+</td>
+<td style="background-color: #B7A3C3; border-left:2px solid grey">797
+</td>
+<td style="background-color: #B7A3C3"><a href="/wiki/Celesteela" class="mw-redirect" title="Celesteela">Celesteela</a><sup>UB</sup>
+</td>
+<td style="border-left:2px solid grey">885
+</td>
+<td><a href="/wiki/Dreepy" class="mw-redirect" title="Dreepy">Dreepy</a>
+</td>
+<td style="border-left:2px solid grey">981
+</td>
+<td><a href="/wiki/Farigiraf" class="mw-redirect" title="Farigiraf">Farigiraf</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">77
+</td>
+<td><a href="/wiki/Ponyta" class="mw-redirect" title="Ponyta">Ponyta</a>
+</td>
+<td style="border-left:2px solid grey">228
+</td>
+<td><a href="/wiki/Houndour" class="mw-redirect" title="Houndour">Houndour</a>
+</td>
+<td style="border-left:2px solid grey">328
+</td>
+<td><a href="/wiki/Trapinch" class="mw-redirect" title="Trapinch">Trapinch</a>
+</td>
+<td style="border-left:2px solid grey">463
+</td>
+<td><a href="/wiki/Lickilicky" class="mw-redirect" title="Lickilicky">Lickilicky</a>
+</td>
+<td style="border-left:2px solid grey">570
+</td>
+<td><a href="/wiki/Zorua" class="mw-redirect" title="Zorua">Zorua</a>
+</td>
+<td style="background-color: #B7A3C3; border-left:2px solid grey">798
+</td>
+<td style="background-color: #B7A3C3"><a href="/wiki/Kartana" class="mw-redirect" title="Kartana">Kartana</a><sup>UB</sup>
+</td>
+<td style="border-left:2px solid grey">886
+</td>
+<td><a href="/wiki/Drakloak" class="mw-redirect" title="Drakloak">Drakloak</a>
+</td>
+<td style="border-left:2px solid grey">982
+</td>
+<td><a href="/wiki/Dudunsparce" class="mw-redirect" title="Dudunsparce">Dudunsparce</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">78
+</td>
+<td><a href="/wiki/Rapidash" class="mw-redirect" title="Rapidash">Rapidash</a>
+</td>
+<td style="border-left:2px solid grey">229
+</td>
+<td><a href="/wiki/Houndoom" class="mw-redirect" title="Houndoom">Houndoom</a>
+</td>
+<td style="border-left:2px solid grey">329
+</td>
+<td><a href="/wiki/Vibrava" class="mw-redirect" title="Vibrava">Vibrava</a>
+</td>
+<td style="border-left:2px solid grey">464
+</td>
+<td><a href="/wiki/Rhyperior" class="mw-redirect" title="Rhyperior">Rhyperior</a>
+</td>
+<td style="border-left:2px solid grey">571
+</td>
+<td><a href="/wiki/Zoroark" title="Zoroark">Zoroark</a>
+</td>
+<td style="background-color: #B7A3C3; border-left:2px solid grey">799
+</td>
+<td style="background-color: #B7A3C3"><a href="/wiki/Guzzlord" class="mw-redirect" title="Guzzlord">Guzzlord</a><sup>UB</sup>
+</td>
+<td style="border-left:2px solid grey">887
+</td>
+<td><a href="/wiki/Dragapult" class="mw-redirect" title="Dragapult">Dragapult</a>
+</td>
+<td style="border-left:2px solid grey">983
+</td>
+<td><a href="/wiki/Kingambit" class="mw-redirect" title="Kingambit">Kingambit</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">79
+</td>
+<td><a href="/wiki/Slowpoke" title="Slowpoke">Slowpoke</a>
+</td>
+<td style="border-left:2px solid grey">230
+</td>
+<td><a href="/wiki/Kingdra" class="mw-redirect" title="Kingdra">Kingdra</a>
+</td>
+<td style="border-left:2px solid grey">330
+</td>
+<td><a href="/wiki/Flygon" title="Flygon">Flygon</a>
+</td>
+<td style="border-left:2px solid grey">465
+</td>
+<td><a href="/wiki/Tangrowth" class="mw-redirect" title="Tangrowth">Tangrowth</a>
+</td>
+<td style="border-left:2px solid grey">572
+</td>
+<td><a href="/wiki/Minccino" class="mw-redirect" title="Minccino">Minccino</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">800
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Necrozma" class="mw-redirect" title="Necrozma">Necrozma</a><sup>L</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">888
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Zacian" class="mw-redirect" title="Zacian">Zacian</a><sup>L</sup>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">984
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Great_Tusk" class="mw-redirect" title="Great Tusk">Great Tusk</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">80
+</td>
+<td><a href="/wiki/Slowbro" class="mw-redirect" title="Slowbro">Slowbro</a>
+</td>
+<td style="border-left:2px solid grey">231
+</td>
+<td><a href="/wiki/Phanpy" class="mw-redirect" title="Phanpy">Phanpy</a>
+</td>
+<td style="border-left:2px solid grey">331
+</td>
+<td><a href="/wiki/Cacnea" class="mw-redirect" title="Cacnea">Cacnea</a>
+</td>
+<td style="border-left:2px solid grey">466
+</td>
+<td><a href="/wiki/Electivire" class="mw-redirect" title="Electivire">Electivire</a>
+</td>
+<td style="border-left:2px solid grey">573
+</td>
+<td><a href="/wiki/Cinccino" class="mw-redirect" title="Cinccino">Cinccino</a>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">801
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Magearna" class="mw-redirect" title="Magearna">Magearna</a><sup>M</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">889
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Zamazenta" class="mw-redirect" title="Zamazenta">Zamazenta</a><sup>L</sup>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">985
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Scream_Tail" class="mw-redirect" title="Scream Tail">Scream Tail</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">81
+</td>
+<td><a href="/wiki/Magnemite" class="mw-redirect" title="Magnemite">Magnemite</a>
+</td>
+<td style="border-left:2px solid grey">232
+</td>
+<td><a href="/wiki/Donphan" class="mw-redirect" title="Donphan">Donphan</a>
+</td>
+<td style="border-left:2px solid grey">332
+</td>
+<td><a href="/wiki/Cacturne" class="mw-redirect" title="Cacturne">Cacturne</a>
+</td>
+<td style="border-left:2px solid grey">467
+</td>
+<td><a href="/wiki/Magmortar" class="mw-redirect" title="Magmortar">Magmortar</a>
+</td>
+<td style="border-left:2px solid grey">574
+</td>
+<td><a href="/wiki/Gothita" class="mw-redirect" title="Gothita">Gothita</a>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">802
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Marshadow" class="mw-redirect" title="Marshadow">Marshadow</a><sup>M</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">890
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Eternatus" class="mw-redirect" title="Eternatus">Eternatus</a><sup>L</sup>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">986
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Brute_Bonnet" class="mw-redirect" title="Brute Bonnet">Brute Bonnet</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">82
+</td>
+<td><a href="/wiki/Magneton_(Pok%C3%A9mon)" class="mw-redirect" title="Magneton (Pokémon)">Magneton</a>
+</td>
+<td style="border-left:2px solid grey">233
+</td>
+<td><a href="/wiki/Porygon2" class="mw-redirect" title="Porygon2">Porygon2</a>
+</td>
+<td style="border-left:2px solid grey">333
+</td>
+<td><a href="/wiki/Swablu" class="mw-redirect" title="Swablu">Swablu</a>
+</td>
+<td style="border-left:2px solid grey">468
+</td>
+<td><a href="/wiki/Togekiss" class="mw-redirect" title="Togekiss">Togekiss</a>
+</td>
+<td style="border-left:2px solid grey">575
+</td>
+<td><a href="/wiki/Gothorita" class="mw-redirect" title="Gothorita">Gothorita</a>
+</td>
+<td style="background-color: #B7A3C3; border-left:2px solid grey">803
+</td>
+<td style="background-color: #B7A3C3"><a href="/wiki/Poipole" class="mw-redirect" title="Poipole">Poipole</a><sup>UB</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">891
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Kubfu" class="mw-redirect" title="Kubfu">Kubfu</a><sup>L</sup>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">987
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Flutter_Mane" class="mw-redirect" title="Flutter Mane">Flutter Mane</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">83
+</td>
+<td><a href="/wiki/Farfetch%27d" class="mw-redirect" title="Farfetch'd">Farfetch'd</a>
+</td>
+<td style="border-left:2px solid grey">234
+</td>
+<td><a href="/wiki/Stantler" class="mw-redirect" title="Stantler">Stantler</a>
+</td>
+<td style="border-left:2px solid grey">334
+</td>
+<td><a href="/wiki/Altaria_(Pok%C3%A9mon)" class="mw-redirect" title="Altaria (Pokémon)">Altaria</a>
+</td>
+<td style="border-left:2px solid grey">469
+</td>
+<td><a href="/wiki/Yanmega" class="mw-redirect" title="Yanmega">Yanmega</a>
+</td>
+<td style="border-left:2px solid grey">576
+</td>
+<td><a href="/wiki/Gothitelle" class="mw-redirect" title="Gothitelle">Gothitelle</a>
+</td>
+<td style="background-color: #B7A3C3; border-left:2px solid grey">804
+</td>
+<td style="background-color: #B7A3C3"><a href="/wiki/Naganadel" class="mw-redirect" title="Naganadel">Naganadel</a><sup>UB</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">892
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Urshifu" class="mw-redirect" title="Urshifu">Urshifu</a><sup>L</sup>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">988
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Slither_Wing" class="mw-redirect" title="Slither Wing">Slither Wing</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">84
+</td>
+<td><a href="/wiki/Doduo" class="mw-redirect" title="Doduo">Doduo</a>
+</td>
+<td style="border-left:2px solid grey">235
+</td>
+<td><a href="/wiki/Smeargle" title="Smeargle">Smeargle</a>
+</td>
+<td style="border-left:2px solid grey">335
+</td>
+<td><a href="/wiki/Zangoose" class="mw-redirect" title="Zangoose">Zangoose</a>
+</td>
+<td style="border-left:2px solid grey">470
+</td>
+<td><a href="/wiki/Leafeon" class="mw-redirect" title="Leafeon">Leafeon</a>
+</td>
+<td style="border-left:2px solid grey">577
+</td>
+<td><a href="/wiki/Solosis" class="mw-redirect" title="Solosis">Solosis</a>
+</td>
+<td style="background-color: #B7A3C3; border-left:2px solid grey">805
+</td>
+<td style="background-color: #B7A3C3"><a href="/wiki/Stakataka" class="mw-redirect" title="Stakataka">Stakataka</a><sup>UB</sup>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">893
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Zarude" class="mw-redirect" title="Zarude">Zarude</a><sup>M</sup>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">989
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Sandy_Shocks" class="mw-redirect" title="Sandy Shocks">Sandy Shocks</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">85
+</td>
+<td><a href="/wiki/Dodrio" class="mw-redirect" title="Dodrio">Dodrio</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">236
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Tyrogue" class="mw-redirect" title="Tyrogue">Tyrogue</a><sup>B</sup>
+</td>
+<td style="border-left:2px solid grey">336
+</td>
+<td><a href="/wiki/Seviper" class="mw-redirect" title="Seviper">Seviper</a>
+</td>
+<td style="border-left:2px solid grey">471
+</td>
+<td><a href="/wiki/Glaceon" class="mw-redirect" title="Glaceon">Glaceon</a>
+</td>
+<td style="border-left:2px solid grey">578
+</td>
+<td><a href="/wiki/Duosion" class="mw-redirect" title="Duosion">Duosion</a>
+</td>
+<td style="background-color: #B7A3C3; border-left:2px solid grey">806
+</td>
+<td style="background-color: #B7A3C3"><a href="/wiki/Blacephalon" class="mw-redirect" title="Blacephalon">Blacephalon</a><sup>UB</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">894
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Regieleki" class="mw-redirect" title="Regieleki">Regieleki</a><sup>L</sup>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">990
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Iron_Treads" class="mw-redirect" title="Iron Treads">Iron Treads</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">86
+</td>
+<td><a href="/wiki/Seel_(Pok%C3%A9mon)" class="mw-redirect" title="Seel (Pokémon)">Seel</a>
+</td>
+<td style="border-left:2px solid grey">237
+</td>
+<td><a href="/wiki/Hitmontop" class="mw-redirect" title="Hitmontop">Hitmontop</a>
+</td>
+<td style="border-left:2px solid grey">337
+</td>
+<td><a href="/wiki/Lunatone" class="mw-redirect" title="Lunatone">Lunatone</a>
+</td>
+<td style="border-left:2px solid grey">472
+</td>
+<td><a href="/wiki/Gliscor" class="mw-redirect" title="Gliscor">Gliscor</a>
+</td>
+<td style="border-left:2px solid grey">579
+</td>
+<td><a href="/wiki/Reuniclus" class="mw-redirect" title="Reuniclus">Reuniclus</a>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">807
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Zeraora" class="mw-redirect" title="Zeraora">Zeraora</a><sup>M</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">895
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Regidrago" class="mw-redirect" title="Regidrago">Regidrago</a><sup>L</sup>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">991
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Iron_Bundle" class="mw-redirect" title="Iron Bundle">Iron Bundle</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">87
+</td>
+<td><a href="/wiki/Dewgong" class="mw-redirect" title="Dewgong">Dewgong</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">238
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Smoochum" class="mw-redirect" title="Smoochum">Smoochum</a><sup>B</sup>
+</td>
+<td style="border-left:2px solid grey">338
+</td>
+<td><a href="/wiki/Solrock" class="mw-redirect" title="Solrock">Solrock</a>
+</td>
+<td style="border-left:2px solid grey">473
+</td>
+<td><a href="/wiki/Mamoswine" class="mw-redirect" title="Mamoswine">Mamoswine</a>
+</td>
+<td style="border-left:2px solid grey">580
+</td>
+<td><a href="/wiki/Ducklett" class="mw-redirect" title="Ducklett">Ducklett</a>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">808
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Meltan" title="Meltan">Meltan</a><sup>M</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">896
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Glastrier" class="mw-redirect" title="Glastrier">Glastrier</a><sup>L</sup>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">992
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Iron_Hands_(Pok%C3%A9mon)" class="mw-redirect" title="Iron Hands (Pokémon)">Iron Hands</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">88
+</td>
+<td><a href="/wiki/Grimer" class="mw-redirect" title="Grimer">Grimer</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">239
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Elekid" class="mw-redirect" title="Elekid">Elekid</a><sup>B</sup><sup id="cite_ref-LABaby_54-11" class="reference"><a href="#cite_note-LABaby-54"><span class="cite-bracket">[</span>g<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">339
+</td>
+<td><a href="/wiki/Barboach" class="mw-redirect" title="Barboach">Barboach</a>
+</td>
+<td style="border-left:2px solid grey">474
+</td>
+<td><a href="/wiki/Porygon-Z" class="mw-redirect" title="Porygon-Z">Porygon-Z</a>
+</td>
+<td style="border-left:2px solid grey">581
+</td>
+<td><a href="/wiki/Swanna" class="mw-redirect" title="Swanna">Swanna</a>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">809
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Melmetal" class="mw-redirect" title="Melmetal">Melmetal</a><sup>M</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">897
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Spectrier" class="mw-redirect" title="Spectrier">Spectrier</a><sup>L</sup>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">993
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Iron_Jugulis" class="mw-redirect" title="Iron Jugulis">Iron Jugulis</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">89
+</td>
+<td><a href="/wiki/Muk_(Pok%C3%A9mon)" class="mw-redirect" title="Muk (Pokémon)">Muk</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">240
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Magby" class="mw-redirect" title="Magby">Magby</a><sup>B</sup><sup id="cite_ref-LABaby_54-12" class="reference"><a href="#cite_note-LABaby-54"><span class="cite-bracket">[</span>g<span class="cite-bracket">]</span></a></sup>
+</td>
+<td style="border-left:2px solid grey">340
+</td>
+<td><a href="/wiki/Whiscash" class="mw-redirect" title="Whiscash">Whiscash</a>
+</td>
+<td style="border-left:2px solid grey">475
+</td>
+<td><a href="/wiki/Gallade" class="mw-redirect" title="Gallade">Gallade</a>
+</td>
+<td style="border-left:2px solid grey">582
+</td>
+<td><a href="/wiki/Vanillite" class="mw-redirect" title="Vanillite">Vanillite</a>
+</td>
+<td colspan="2" rowspan="68" style="border-left:2px solid grey" class="table-na">
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">898
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Calyrex" class="mw-redirect" title="Calyrex">Calyrex</a><sup>L</sup>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">994
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Iron_Moth" class="mw-redirect" title="Iron Moth">Iron Moth</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">90
+</td>
+<td><a href="/wiki/Shellder" class="mw-redirect" title="Shellder">Shellder</a>
+</td>
+<td style="border-left:2px solid grey">241
+</td>
+<td><a href="/wiki/Miltank" class="mw-redirect" title="Miltank">Miltank</a>
+</td>
+<td style="border-left:2px solid grey">341
+</td>
+<td><a href="/wiki/Corphish" class="mw-redirect" title="Corphish">Corphish</a>
+</td>
+<td style="border-left:2px solid grey">476
+</td>
+<td><a href="/wiki/Probopass" class="mw-redirect" title="Probopass">Probopass</a>
+</td>
+<td style="border-left:2px solid grey">583
+</td>
+<td><a href="/wiki/Vanillish" class="mw-redirect" title="Vanillish">Vanillish</a>
+</td>
+<td style="border-left:2px solid grey">899
+</td>
+<td><a href="/wiki/Wyrdeer" class="mw-redirect" title="Wyrdeer">Wyrdeer</a>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">995
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Iron_Thorns" class="mw-redirect" title="Iron Thorns">Iron Thorns</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">91
+</td>
+<td><a href="/wiki/Cloyster" class="mw-redirect" title="Cloyster">Cloyster</a>
+</td>
+<td style="border-left:2px solid grey">242
+</td>
+<td><a href="/wiki/Blissey" class="mw-redirect" title="Blissey">Blissey</a>
+</td>
+<td style="border-left:2px solid grey">342
+</td>
+<td><a href="/wiki/Crawdaunt" class="mw-redirect" title="Crawdaunt">Crawdaunt</a>
+</td>
+<td style="border-left:2px solid grey">477
+</td>
+<td><a href="/wiki/Dusknoir" class="mw-redirect" title="Dusknoir">Dusknoir</a>
+</td>
+<td style="border-left:2px solid grey">584
+</td>
+<td><a href="/wiki/Vanilluxe" class="mw-redirect" title="Vanilluxe">Vanilluxe</a>
+</td>
+<td style="border-left:2px solid grey">900
+</td>
+<td><a href="/wiki/Kleavor" title="Kleavor">Kleavor</a>
+</td>
+<td style="border-left:2px solid grey">996
+</td>
+<td><a href="/wiki/Frigibax" class="mw-redirect" title="Frigibax">Frigibax</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">92
+</td>
+<td><a href="/wiki/Gastly" class="mw-redirect" title="Gastly">Gastly</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">243
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Raikou" class="mw-redirect" title="Raikou">Raikou</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">343
+</td>
+<td><a href="/wiki/Baltoy" class="mw-redirect" title="Baltoy">Baltoy</a>
+</td>
+<td style="border-left:2px solid grey">478
+</td>
+<td><a href="/wiki/Froslass" class="mw-redirect" title="Froslass">Froslass</a>
+</td>
+<td style="border-left:2px solid grey">585
+</td>
+<td><a href="/wiki/Deerling" class="mw-redirect" title="Deerling">Deerling</a>
+</td>
+<td style="border-left:2px solid grey">901
+</td>
+<td><a href="/wiki/Ursaluna" class="mw-redirect" title="Ursaluna">Ursaluna</a>
+</td>
+<td style="border-left:2px solid grey">997
+</td>
+<td><a href="/wiki/Arctibax" class="mw-redirect" title="Arctibax">Arctibax</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">93
+</td>
+<td><a href="/wiki/Haunter_(Pok%C3%A9mon)" title="Haunter (Pokémon)">Haunter</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">244
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Entei" class="mw-redirect" title="Entei">Entei</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">344
+</td>
+<td><a href="/wiki/Claydol" class="mw-redirect" title="Claydol">Claydol</a>
+</td>
+<td style="border-left:2px solid grey">479
+</td>
+<td><a href="/wiki/Rotom" class="mw-redirect" title="Rotom">Rotom</a>
+</td>
+<td style="border-left:2px solid grey">586
+</td>
+<td><a href="/wiki/Sawsbuck" class="mw-redirect" title="Sawsbuck">Sawsbuck</a>
+</td>
+<td style="border-left:2px solid grey">902
+</td>
+<td><a href="/wiki/Basculegion" class="mw-redirect" title="Basculegion">Basculegion</a>
+</td>
+<td style="border-left:2px solid grey">998
+</td>
+<td><a href="/wiki/Baxcalibur" class="mw-redirect" title="Baxcalibur">Baxcalibur</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">94
+</td>
+<td><a href="/wiki/Gengar" title="Gengar">Gengar</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">245
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Suicune" class="mw-redirect" title="Suicune">Suicune</a><sup>L</sup>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">345
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Lileep" class="mw-redirect" title="Lileep">Lileep</a><sup>F</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">480
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Uxie" class="mw-redirect" title="Uxie">Uxie</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">587
+</td>
+<td><a href="/wiki/Emolga" class="mw-redirect" title="Emolga">Emolga</a>
+</td>
+<td style="border-left:2px solid grey">903
+</td>
+<td><a href="/wiki/Sneasler" class="mw-redirect" title="Sneasler">Sneasler</a>
+</td>
+<td style="border-left:2px solid grey">999
+</td>
+<td><a href="/wiki/Gimmighoul" class="mw-redirect" title="Gimmighoul">Gimmighoul</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">95
+</td>
+<td><a href="/wiki/Onix_(Pok%C3%A9mon)" class="mw-redirect" title="Onix (Pokémon)">Onix</a>
+</td>
+<td style="border-left:2px solid grey">246
+</td>
+<td><a href="/wiki/Larvitar" class="mw-redirect" title="Larvitar">Larvitar</a>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">346
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Cradily" class="mw-redirect" title="Cradily">Cradily</a><sup>F</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">481
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Mesprit" class="mw-redirect" title="Mesprit">Mesprit</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">588
+</td>
+<td><a href="/wiki/Karrablast" class="mw-redirect" title="Karrablast">Karrablast</a>
+</td>
+<td style="border-left:2px solid grey">904
+</td>
+<td><a href="/wiki/Overqwil" class="mw-redirect" title="Overqwil">Overqwil</a>
+</td>
+<td style="border-left:2px solid grey">1000
+</td>
+<td><a href="/wiki/Gholdengo" title="Gholdengo">Gholdengo</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">96
+</td>
+<td><a href="/wiki/Drowzee" class="mw-redirect" title="Drowzee">Drowzee</a>
+</td>
+<td style="border-left:2px solid grey">247
+</td>
+<td><a href="/wiki/Pupitar" class="mw-redirect" title="Pupitar">Pupitar</a>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">347
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Anorith" class="mw-redirect" title="Anorith">Anorith</a><sup>F</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">482
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Azelf" class="mw-redirect" title="Azelf">Azelf</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">589
+</td>
+<td><a href="/wiki/Escavalier" class="mw-redirect" title="Escavalier">Escavalier</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">905
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Enamorus" class="mw-redirect" title="Enamorus">Enamorus</a><sup>L</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">1001
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Wo-Chien" class="mw-redirect" title="Wo-Chien">Wo-Chien</a><sup>L</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">97
+</td>
+<td><a href="/wiki/Hypno" class="mw-redirect" title="Hypno">Hypno</a>
+</td>
+<td style="border-left:2px solid grey">248
+</td>
+<td><a href="/wiki/Tyranitar" class="mw-redirect" title="Tyranitar">Tyranitar</a>
+</td>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">348
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Armaldo" class="mw-redirect" title="Armaldo">Armaldo</a><sup>F</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">483
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Dialga" class="mw-redirect" title="Dialga">Dialga</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">590
+</td>
+<td><a href="/wiki/Foongus" class="mw-redirect" title="Foongus">Foongus</a>
+</td>
+<td colspan="2" rowspan="60" style="border-left:2px solid grey" class="table-na">
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">1002
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Chien-Pao" class="mw-redirect" title="Chien-Pao">Chien-Pao</a><sup>L</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">98
+</td>
+<td><a href="/wiki/Krabby" class="mw-redirect" title="Krabby">Krabby</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">249
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Lugia" class="mw-redirect" title="Lugia">Lugia</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">349
+</td>
+<td><a href="/wiki/Feebas" class="mw-redirect" title="Feebas">Feebas</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">484
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Palkia" class="mw-redirect" title="Palkia">Palkia</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">591
+</td>
+<td><a href="/wiki/Amoonguss" class="mw-redirect" title="Amoonguss">Amoonguss</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">1003
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Ting-Lu" class="mw-redirect" title="Ting-Lu">Ting-Lu</a><sup>L</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">99
+</td>
+<td><a href="/wiki/Kingler" class="mw-redirect" title="Kingler">Kingler</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">250
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Ho-Oh" class="mw-redirect" title="Ho-Oh">Ho-oh</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">350
+</td>
+<td><a href="/wiki/Milotic" class="mw-redirect" title="Milotic">Milotic</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">485
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Heatran" class="mw-redirect" title="Heatran">Heatran</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">592
+</td>
+<td><a href="/wiki/Frillish" class="mw-redirect" title="Frillish">Frillish</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">1004
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Chi-Yu" class="mw-redirect" title="Chi-Yu">Chi-Yu</a><sup>L</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">100
+</td>
+<td><a href="/wiki/Voltorb" title="Voltorb">Voltorb</a>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">251
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Celebi_(Pok%C3%A9mon)" class="mw-redirect" title="Celebi (Pokémon)">Celebi</a><sup>M</sup>
+</td>
+<td style="border-left:2px solid grey">351
+</td>
+<td><a href="/wiki/Castform" class="mw-redirect" title="Castform">Castform</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">486
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Regigigas" class="mw-redirect" title="Regigigas">Regigigas</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">593
+</td>
+<td><a href="/wiki/Jellicent" class="mw-redirect" title="Jellicent">Jellicent</a>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">1005
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Roaring_Moon" class="mw-redirect" title="Roaring Moon">Roaring Moon</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">101
+</td>
+<td><a href="/wiki/Electrode_(Pok%C3%A9mon)" class="mw-redirect" title="Electrode (Pokémon)">Electrode</a>
+</td>
+<td colspan="2" rowspan="56" style="border-left:2px solid grey" class="table-na">
+</td>
+<td style="border-left:2px solid grey">352
+</td>
+<td><a href="/wiki/Kecleon" class="mw-redirect" title="Kecleon">Kecleon</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">487
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Giratina" class="mw-redirect" title="Giratina">Giratina</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">594
+</td>
+<td><a href="/wiki/Alomomola" class="mw-redirect" title="Alomomola">Alomomola</a>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">1006
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Iron_Valiant" class="mw-redirect" title="Iron Valiant">Iron Valiant</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">102
+</td>
+<td><a href="/wiki/Exeggcute" class="mw-redirect" title="Exeggcute">Exeggcute</a>
+</td>
+<td style="border-left:2px solid grey">353
+</td>
+<td><a href="/wiki/Shuppet" class="mw-redirect" title="Shuppet">Shuppet</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">488
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Cresselia" class="mw-redirect" title="Cresselia">Cresselia</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">595
+</td>
+<td><a href="/wiki/Joltik" class="mw-redirect" title="Joltik">Joltik</a>
+</td>
+<td style="border-left:2px solid grey; background: repeating-linear-gradient(-45deg, #d4f2ce, #d4f2ce 10px, #E89483 10px, #E89483 20px)">1007
+</td>
+<td style="background: repeating-linear-gradient(-45deg, #E89483, #E89483 10px, #d4f2ce 10px, #d4f2ce 20px)"><a href="/wiki/Koraidon" class="mw-redirect" title="Koraidon">Koraidon</a><sup>LP</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">103
+</td>
+<td><a href="/wiki/Exeggutor" class="mw-redirect" title="Exeggutor">Exeggutor</a>
+</td>
+<td style="border-left:2px solid grey">354
+</td>
+<td><a href="/wiki/Banette" class="mw-redirect" title="Banette">Banette</a>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">489
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Phione" class="mw-redirect" title="Phione">Phione</a><sup>M</sup>
+</td>
+<td style="border-left:2px solid grey">596
+</td>
+<td><a href="/wiki/Galvantula" class="mw-redirect" title="Galvantula">Galvantula</a>
+</td>
+<td style="border-left:2px solid grey; background: repeating-linear-gradient(-45deg, #d4f2ce, #d4f2ce 10px, #E89483 10px, #E89483 20px)">1008
+</td>
+<td style="background: repeating-linear-gradient(-45deg, #E89483, #E89483 10px, #d4f2ce 10px, #d4f2ce 20px)"><a href="/wiki/Miraidon" class="mw-redirect" title="Miraidon">Miraidon</a><sup>LP</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">104
+</td>
+<td><a href="/wiki/Cubone" title="Cubone">Cubone</a>
+</td>
+<td style="border-left:2px solid grey">355
+</td>
+<td><a href="/wiki/Duskull" class="mw-redirect" title="Duskull">Duskull</a>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">490
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Manaphy" class="mw-redirect" title="Manaphy">Manaphy</a><sup>M</sup>
+</td>
+<td style="border-left:2px solid grey">597
+</td>
+<td><a href="/wiki/Ferroseed" class="mw-redirect" title="Ferroseed">Ferroseed</a>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">1009
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Walking_Wake" class="mw-redirect" title="Walking Wake">Walking Wake</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">105
+</td>
+<td><a href="/wiki/Marowak" class="mw-redirect" title="Marowak">Marowak</a>
+</td>
+<td style="border-left:2px solid grey">356
+</td>
+<td><a href="/wiki/Dusclops" class="mw-redirect" title="Dusclops">Dusclops</a>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">491
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Darkrai" class="mw-redirect" title="Darkrai">Darkrai</a><sup>M</sup>
+</td>
+<td style="border-left:2px solid grey">598
+</td>
+<td><a href="/wiki/Ferrothorn" class="mw-redirect" title="Ferrothorn">Ferrothorn</a>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">1010
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Iron_Leaves" class="mw-redirect" title="Iron Leaves">Iron Leaves</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">106
+</td>
+<td><a href="/wiki/Hitmonlee" class="mw-redirect" title="Hitmonlee">Hitmonlee</a>
+</td>
+<td style="border-left:2px solid grey">357
+</td>
+<td><a href="/wiki/Tropius" class="mw-redirect" title="Tropius">Tropius</a>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">492
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Shaymin" class="mw-redirect" title="Shaymin">Shaymin</a><sup>M</sup>
+</td>
+<td style="border-left:2px solid grey">599
+</td>
+<td><a href="/wiki/Klink_(Pok%C3%A9mon)" class="mw-redirect" title="Klink (Pokémon)">Klink</a>
+</td>
+<td style="border-left:2px solid grey">1011
+</td>
+<td><a href="/wiki/Dipplin" class="mw-redirect" title="Dipplin">Dipplin</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">107
+</td>
+<td><a href="/wiki/Hitmonchan" class="mw-redirect" title="Hitmonchan">Hitmonchan</a>
+</td>
+<td style="border-left:2px solid grey">358
+</td>
+<td><a href="/wiki/Chimecho" class="mw-redirect" title="Chimecho">Chimecho</a>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">493
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Arceus" title="Arceus">Arceus</a><sup>M</sup>
+</td>
+<td style="border-left:2px solid grey">600
+</td>
+<td><a href="/wiki/Klang_(Pok%C3%A9mon)" class="mw-redirect" title="Klang (Pokémon)">Klang</a>
+</td>
+<td style="border-left:2px solid grey">1012
+</td>
+<td><a href="/wiki/Poltchageist" class="mw-redirect" title="Poltchageist">Poltchageist</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">108
+</td>
+<td><a href="/wiki/Lickitung" class="mw-redirect" title="Lickitung">Lickitung</a>
+</td>
+<td style="border-left:2px solid grey">359
+</td>
+<td><a href="/wiki/Absol" class="mw-redirect" title="Absol">Absol</a>
+</td>
+<td colspan="2" rowspan="49" style="border-left:2px solid grey" class="table-na">
+</td>
+<td style="border-left:2px solid grey">601
+</td>
+<td><a href="/wiki/Klinklang" class="mw-redirect" title="Klinklang">Klinklang</a>
+</td>
+<td style="border-left:2px solid grey">1013
+</td>
+<td><a href="/wiki/Sinistcha" class="mw-redirect" title="Sinistcha">Sinistcha</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">109
+</td>
+<td><a href="/wiki/Koffing" class="mw-redirect" title="Koffing">Koffing</a>
+</td>
+<td style="background-color: #F7D9D3; border-left:2px solid grey">360
+</td>
+<td style="background-color: #F7D9D3"><a href="/wiki/Wynaut" class="mw-redirect" title="Wynaut">Wynaut</a><sup>B</sup>
+</td>
+<td style="border-left:2px solid grey">602
+</td>
+<td><a href="/wiki/Tynamo" class="mw-redirect" title="Tynamo">Tynamo</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">1014
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Okidogi" class="mw-redirect" title="Okidogi">Okidogi</a><sup>L</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">110
+</td>
+<td><a href="/wiki/Weezing" title="Weezing">Weezing</a>
+</td>
+<td style="border-left:2px solid grey">361
+</td>
+<td><a href="/wiki/Snorunt" class="mw-redirect" title="Snorunt">Snorunt</a>
+</td>
+<td style="border-left:2px solid grey">603
+</td>
+<td><a href="/wiki/Eelektrik" class="mw-redirect" title="Eelektrik">Eelektrik</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">1015
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Munkidori" class="mw-redirect" title="Munkidori">Munkidori</a><sup>L</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">111
+</td>
+<td><a href="/wiki/Rhyhorn" class="mw-redirect" title="Rhyhorn">Rhyhorn</a>
+</td>
+<td style="border-left:2px solid grey">362
+</td>
+<td><a href="/wiki/Glalie" class="mw-redirect" title="Glalie">Glalie</a>
+</td>
+<td style="border-left:2px solid grey">604
+</td>
+<td><a href="/wiki/Eelektross" class="mw-redirect" title="Eelektross">Eelektross</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">1016
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Fezandipiti" class="mw-redirect" title="Fezandipiti">Fezandipiti</a><sup>L</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">112
+</td>
+<td><a href="/wiki/Rhydon" class="mw-redirect" title="Rhydon">Rhydon</a>
+</td>
+<td style="border-left:2px solid grey">363
+</td>
+<td><a href="/wiki/Spheal" class="mw-redirect" title="Spheal">Spheal</a>
+</td>
+<td style="border-left:2px solid grey">605
+</td>
+<td><a href="/wiki/Elgyem" class="mw-redirect" title="Elgyem">Elgyem</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">1017
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Ogerpon" class="mw-redirect" title="Ogerpon">Ogerpon</a><sup>L</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">113
+</td>
+<td><a href="/wiki/Chansey" class="mw-redirect" title="Chansey">Chansey</a>
+</td>
+<td style="border-left:2px solid grey">364
+</td>
+<td><a href="/wiki/Sealeo" class="mw-redirect" title="Sealeo">Sealeo</a>
+</td>
+<td style="border-left:2px solid grey">606
+</td>
+<td><a href="/wiki/Beheeyem" class="mw-redirect" title="Beheeyem">Beheeyem</a>
+</td>
+<td style="border-left:2px solid grey">1018
+</td>
+<td><a href="/wiki/Archaludon" class="mw-redirect" title="Archaludon">Archaludon</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">114
+</td>
+<td><a href="/wiki/Tangela" class="mw-redirect" title="Tangela">Tangela</a>
+</td>
+<td style="border-left:2px solid grey">365
+</td>
+<td><a href="/wiki/Walrein" class="mw-redirect" title="Walrein">Walrein</a>
+</td>
+<td style="border-left:2px solid grey">607
+</td>
+<td><a href="/wiki/Litwick" class="mw-redirect" title="Litwick">Litwick</a>
+</td>
+<td style="border-left:2px solid grey">1019
+</td>
+<td><a href="/wiki/Hydrapple" class="mw-redirect" title="Hydrapple">Hydrapple</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">115
+</td>
+<td><a href="/wiki/Kangaskhan" class="mw-redirect" title="Kangaskhan">Kangaskhan</a>
+</td>
+<td style="border-left:2px solid grey">366
+</td>
+<td><a href="/wiki/Clamperl" class="mw-redirect" title="Clamperl">Clamperl</a>
+</td>
+<td style="border-left:2px solid grey">608
+</td>
+<td><a href="/wiki/Lampent" class="mw-redirect" title="Lampent">Lampent</a>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">1020
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Gouging_Fire" class="mw-redirect" title="Gouging Fire">Gouging Fire</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">116
+</td>
+<td><a href="/wiki/Horsea_(Pok%C3%A9mon)" class="mw-redirect" title="Horsea (Pokémon)">Horsea</a>
+</td>
+<td style="border-left:2px solid grey">367
+</td>
+<td><a href="/wiki/Huntail" class="mw-redirect" title="Huntail">Huntail</a>
+</td>
+<td style="border-left:2px solid grey">609
+</td>
+<td><a href="/wiki/Chandelure" title="Chandelure">Chandelure</a>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">1021
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Raging_Bolt" class="mw-redirect" title="Raging Bolt">Raging Bolt</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">117
+</td>
+<td><a href="/wiki/Seadra" class="mw-redirect" title="Seadra">Seadra</a>
+</td>
+<td style="border-left:2px solid grey">368
+</td>
+<td><a href="/wiki/Gorebyss" class="mw-redirect" title="Gorebyss">Gorebyss</a>
+</td>
+<td style="border-left:2px solid grey">610
+</td>
+<td><a href="/wiki/Axew" class="mw-redirect" title="Axew">Axew</a>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">1022
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Iron_Boulder" class="mw-redirect" title="Iron Boulder">Iron Boulder</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">118
+</td>
+<td><a href="/wiki/Goldeen" class="mw-redirect" title="Goldeen">Goldeen</a>
+</td>
+<td style="border-left:2px solid grey">369
+</td>
+<td><a href="/wiki/Relicanth" class="mw-redirect" title="Relicanth">Relicanth</a>
+</td>
+<td style="border-left:2px solid grey">611
+</td>
+<td><a href="/wiki/Fraxure" class="mw-redirect" title="Fraxure">Fraxure</a>
+</td>
+<td style="background-color: #d4f2ce; border-left:2px solid grey">1023
+</td>
+<td style="background-color: #d4f2ce"><a href="/wiki/Iron_Crown_(Pok%C3%A9mon)" class="mw-redirect" title="Iron Crown (Pokémon)">Iron Crown</a><sup>P</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">119
+</td>
+<td><a href="/wiki/Seaking" class="mw-redirect" title="Seaking">Seaking</a>
+</td>
+<td style="border-left:2px solid grey">370
+</td>
+<td><a href="/wiki/Luvdisc" class="mw-redirect" title="Luvdisc">Luvdisc</a>
+</td>
+<td style="border-left:2px solid grey">612
+</td>
+<td><a href="/wiki/Haxorus" class="mw-redirect" title="Haxorus">Haxorus</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">1024
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Terapagos" class="mw-redirect" title="Terapagos">Terapagos</a><sup>L</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">120
+</td>
+<td><a href="/wiki/Staryu" class="mw-redirect" title="Staryu">Staryu</a>
+</td>
+<td style="border-left:2px solid grey">371
+</td>
+<td><a href="/wiki/Bagon" class="mw-redirect" title="Bagon">Bagon</a>
+</td>
+<td style="border-left:2px solid grey">613
+</td>
+<td><a href="/wiki/Cubchoo" class="mw-redirect" title="Cubchoo">Cubchoo</a>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">1025
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Pecharunt" class="mw-redirect" title="Pecharunt">Pecharunt</a><sup>M</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">121
+</td>
+<td><a href="/wiki/Starmie" title="Starmie">Starmie</a>
+</td>
+<td style="border-left:2px solid grey">372
+</td>
+<td><a href="/wiki/Shelgon" class="mw-redirect" title="Shelgon">Shelgon</a>
+</td>
+<td style="border-left:2px solid grey">614
+</td>
+<td><a href="/wiki/Beartic" class="mw-redirect" title="Beartic">Beartic</a>
+</td>
+<td colspan="2" rowspan="36" style="border-left:2px solid grey" class="table-na">
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">122
+</td>
+<td><a href="/wiki/Mr._Mime" title="Mr. Mime">Mr. Mime</a>
+</td>
+<td style="border-left:2px solid grey">373
+</td>
+<td><a href="/wiki/Salamence" class="mw-redirect" title="Salamence">Salamence</a>
+</td>
+<td style="border-left:2px solid grey">615
+</td>
+<td><a href="/wiki/Cryogonal" class="mw-redirect" title="Cryogonal">Cryogonal</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">123
+</td>
+<td><a href="/wiki/Scyther" class="mw-redirect" title="Scyther">Scyther</a>
+</td>
+<td style="border-left:2px solid grey">374
+</td>
+<td><a href="/wiki/Beldum" class="mw-redirect" title="Beldum">Beldum</a>
+</td>
+<td style="border-left:2px solid grey">616
+</td>
+<td><a href="/wiki/Shelmet" class="mw-redirect" title="Shelmet">Shelmet</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">124
+</td>
+<td><a href="/wiki/Jynx" title="Jynx">Jynx</a>
+</td>
+<td style="border-left:2px solid grey">375
+</td>
+<td><a href="/wiki/Metang" class="mw-redirect" title="Metang">Metang</a>
+</td>
+<td style="border-left:2px solid grey">617
+</td>
+<td><a href="/wiki/Accelgor" class="mw-redirect" title="Accelgor">Accelgor</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">125
+</td>
+<td><a href="/wiki/Electabuzz" class="mw-redirect" title="Electabuzz">Electabuzz</a>
+</td>
+<td style="border-left:2px solid grey">376
+</td>
+<td><a href="/wiki/Metagross" class="mw-redirect" title="Metagross">Metagross</a>
+</td>
+<td style="border-left:2px solid grey">618
+</td>
+<td><a href="/wiki/Stunfisk" class="mw-redirect" title="Stunfisk">Stunfisk</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">126
+</td>
+<td><a href="/wiki/Magmar_(Pok%C3%A9mon)" class="mw-redirect" title="Magmar (Pokémon)">Magmar</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">377
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Regirock" class="mw-redirect" title="Regirock">Regirock</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">619
+</td>
+<td><a href="/wiki/Mienfoo" class="mw-redirect" title="Mienfoo">Mienfoo</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">127
+</td>
+<td><a href="/wiki/Pinsir" title="Pinsir">Pinsir</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">378
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Regice" class="mw-redirect" title="Regice">Regice</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">620
+</td>
+<td><a href="/wiki/Mienshao" class="mw-redirect" title="Mienshao">Mienshao</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">128
+</td>
+<td><a href="/wiki/Tauros_(Pok%C3%A9mon)" class="mw-redirect" title="Tauros (Pokémon)">Tauros</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">379
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Registeel" class="mw-redirect" title="Registeel">Registeel</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">621
+</td>
+<td><a href="/wiki/Druddigon" class="mw-redirect" title="Druddigon">Druddigon</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">129
+</td>
+<td><a href="/wiki/Magikarp" class="mw-redirect" title="Magikarp">Magikarp</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">380
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Latias" class="mw-redirect" title="Latias">Latias</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">622
+</td>
+<td><a href="/wiki/Golett" class="mw-redirect" title="Golett">Golett</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">130
+</td>
+<td><a href="/wiki/Gyarados" class="mw-redirect" title="Gyarados">Gyarados</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">381
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Latios" class="mw-redirect" title="Latios">Latios</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">623
+</td>
+<td><a href="/wiki/Golurk" class="mw-redirect" title="Golurk">Golurk</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">131
+</td>
+<td><a href="/wiki/Lapras" class="mw-redirect" title="Lapras">Lapras</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">382
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Kyogre" class="mw-redirect" title="Kyogre">Kyogre</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">624
+</td>
+<td><a href="/wiki/Pawniard" class="mw-redirect" title="Pawniard">Pawniard</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">132
+</td>
+<td><a href="/wiki/Ditto_(Pok%C3%A9mon)" title="Ditto (Pokémon)">Ditto</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">383
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Groudon" class="mw-redirect" title="Groudon">Groudon</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">625
+</td>
+<td><a href="/wiki/Bisharp" class="mw-redirect" title="Bisharp">Bisharp</a>
+</td></tr>
+<tr>
+<td style="background-color: #9FCADF; border-left:2px solid grey">133
+</td>
+<td style="background-color: #9FCADF"><a href="/wiki/Eevee" title="Eevee">Eevee</a><sup>S</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">384
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Rayquaza" class="mw-redirect" title="Rayquaza">Rayquaza</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">626
+</td>
+<td><a href="/wiki/Bouffalant" class="mw-redirect" title="Bouffalant">Bouffalant</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">134
+</td>
+<td><a href="/wiki/Vaporeon" class="mw-redirect" title="Vaporeon">Vaporeon</a>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">385
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Jirachi" class="mw-redirect" title="Jirachi">Jirachi</a><sup>M</sup>
+</td>
+<td style="border-left:2px solid grey">627
+</td>
+<td><a href="/wiki/Rufflet" class="mw-redirect" title="Rufflet">Rufflet</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">135
+</td>
+<td><a href="/wiki/Jolteon" class="mw-redirect" title="Jolteon">Jolteon</a>
+</td>
+<td style="background-color: #DCD677; border-left:2px solid grey">386
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Deoxys" class="mw-redirect" title="Deoxys">Deoxys</a><sup>M</sup>
+</td>
+<td style="border-left:2px solid grey">628
+</td>
+<td><a href="/wiki/Braviary" class="mw-redirect" title="Braviary">Braviary</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">136
+</td>
+<td><a href="/wiki/Flareon" class="mw-redirect" title="Flareon">Flareon</a>
+</td>
+<td colspan="2" rowspan="21" style="border-left:2px solid grey" class="table-na">
+</td>
+<td style="border-left:2px solid grey">629
+</td>
+<td><a href="/wiki/Vullaby" class="mw-redirect" title="Vullaby">Vullaby</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">137
+</td>
+<td><a href="/wiki/Porygon" class="mw-redirect" title="Porygon">Porygon</a>
+</td>
+<td style="border-left:2px solid grey">630
+</td>
+<td><a href="/wiki/Mandibuzz" class="mw-redirect" title="Mandibuzz">Mandibuzz</a>
+</td></tr>
+<tr>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">138
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Omanyte" class="mw-redirect" title="Omanyte">Omanyte</a><sup>F</sup>
+</td>
+<td style="border-left:2px solid grey">631
+</td>
+<td><a href="/wiki/Heatmor" class="mw-redirect" title="Heatmor">Heatmor</a>
+</td></tr>
+<tr>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">139
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Omastar" class="mw-redirect" title="Omastar">Omastar</a><sup>F</sup>
+</td>
+<td style="border-left:2px solid grey">632
+</td>
+<td><a href="/wiki/Durant_(Pok%C3%A9mon)" class="mw-redirect" title="Durant (Pokémon)">Durant</a>
+</td></tr>
+<tr>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">140
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Kabuto_(Pok%C3%A9mon)" class="mw-redirect" title="Kabuto (Pokémon)">Kabuto</a><sup>F</sup>
+</td>
+<td style="border-left:2px solid grey">633
+</td>
+<td><a href="/wiki/Deino_(Pok%C3%A9mon)" class="mw-redirect" title="Deino (Pokémon)">Deino</a>
+</td></tr>
+<tr>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">141
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Kabutops" class="mw-redirect" title="Kabutops">Kabutops</a><sup>F</sup>
+</td>
+<td style="border-left:2px solid grey">634
+</td>
+<td><a href="/wiki/Zweilous" class="mw-redirect" title="Zweilous">Zweilous</a>
+</td></tr>
+<tr>
+<td style="background-color: #ccdfdc; border-left:2px solid grey">142
+</td>
+<td style="background-color: #ccdfdc"><a href="/wiki/Aerodactyl_(Pok%C3%A9mon)" class="mw-redirect" title="Aerodactyl (Pokémon)">Aerodactyl</a><sup>F</sup>
+</td>
+<td style="border-left:2px solid grey">635
+</td>
+<td><a href="/wiki/Hydreigon" class="mw-redirect" title="Hydreigon">Hydreigon</a>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">143
+</td>
+<td><a href="/wiki/Snorlax" title="Snorlax">Snorlax</a>
+</td>
+<td style="border-left:2px solid grey">636
+</td>
+<td><a href="/wiki/Larvesta" class="mw-redirect" title="Larvesta">Larvesta</a>
+</td></tr>
+<tr>
+<td style="background-color: #E89483; border-left:2px solid grey">144
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Articuno" class="mw-redirect" title="Articuno">Articuno</a><sup>L</sup>
+</td>
+<td style="border-left:2px solid grey">637
+</td>
+<td><a href="/wiki/Volcarona" class="mw-redirect" title="Volcarona">Volcarona</a>
+</td></tr>
+<tr>
+<td style="background-color: #E89483; border-left:2px solid grey">145
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Zapdos" class="mw-redirect" title="Zapdos">Zapdos</a><sup>L</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">638
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Cobalion" class="mw-redirect" title="Cobalion">Cobalion</a><sup>L</sup>
+</td></tr>
+<tr>
+<td style="background-color: #E89483; border-left:2px solid grey">146
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Moltres" class="mw-redirect" title="Moltres">Moltres</a><sup>L</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">639
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Terrakion" class="mw-redirect" title="Terrakion">Terrakion</a><sup>L</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">147
+</td>
+<td><a href="/wiki/Dratini" class="mw-redirect" title="Dratini">Dratini</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">640
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Virizion" class="mw-redirect" title="Virizion">Virizion</a><sup>L</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">148
+</td>
+<td><a href="/wiki/Dragonair_(Pok%C3%A9mon)" class="mw-redirect" title="Dragonair (Pokémon)">Dragonair</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">641
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Tornadus" class="mw-redirect" title="Tornadus">Tornadus</a><sup>L</sup>
+</td></tr>
+<tr>
+<td style="border-left:2px solid grey">149
+</td>
+<td><a href="/wiki/Dragonite" title="Dragonite">Dragonite</a>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">642
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Thundurus" class="mw-redirect" title="Thundurus">Thundurus</a><sup>L</sup>
+</td></tr>
+<tr>
+<td style="background-color: #E89483; border-left:2px solid grey">150
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Mewtwo" title="Mewtwo">Mewtwo</a><sup>L</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">643
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Reshiram" class="mw-redirect" title="Reshiram">Reshiram</a><sup>L</sup>
+</td></tr>
+<tr>
+<td style="background-color: #DCD677; border-left:2px solid grey">151
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Mew_(Pok%C3%A9mon)" title="Mew (Pokémon)">Mew</a><sup>M</sup>
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">644
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Zekrom" class="mw-redirect" title="Zekrom">Zekrom</a><sup>L</sup>
+</td></tr>
+<tr>
+<td colspan="2" rowspan="5" style="border-left:2px solid grey" class="table-na">
+</td>
+<td style="background-color: #E89483; border-left:2px solid grey">645
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Landorus" class="mw-redirect" title="Landorus">Landorus</a><sup>L</sup>
+</td></tr>
+<tr>
+<td style="background-color: #E89483; border-left:2px solid grey">646
+</td>
+<td style="background-color: #E89483"><a href="/wiki/Kyurem" class="mw-redirect" title="Kyurem">Kyurem</a><sup>L</sup>
+</td></tr>
+<tr>
+<td style="background-color: #DCD677; border-left:2px solid grey">647
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Keldeo" class="mw-redirect" title="Keldeo">Keldeo</a><sup>M</sup>
+</td></tr>
+<tr>
+<td style="background-color: #DCD677; border-left:2px solid grey">648
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Meloetta" class="mw-redirect" title="Meloetta">Meloetta</a><sup>M</sup>
+</td></tr>
+<tr>
+<td style="background-color: #DCD677; border-left:2px solid grey">649
+</td>
+<td style="background-color: #DCD677"><a href="/wiki/Genesect" class="mw-redirect" title="Genesect">Genesect</a><sup>M</sup>
+</td></tr></tbody><tfoot></tfoot></table>

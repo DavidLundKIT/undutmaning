@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="UndervattenStrommar/UndervattenStrommar.vcxproj" Id="539a287b-49e8-45fc-acf2-31bac1d2f9da" />
+</Solution>
